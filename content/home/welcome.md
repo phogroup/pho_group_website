@@ -22,6 +22,6 @@ design:
 
 ## Our Mission
 
-<sup>I really like using Markdown.<sup>
+<sup>1. Developing advanced  high order finite element methods for Partial Differential Equations.<sup>
 
-<sup>I really like using Markdown.<sup>
+<sup>2. Developing scalable solvers for future supercomputing systems to simulate complex physical problems.<sup>
