@@ -23,7 +23,7 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Artificial 
       institution: Stanford University
       year: 2012
     - course: MEng in Artificial Intelligence

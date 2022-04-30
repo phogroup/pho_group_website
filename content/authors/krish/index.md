@@ -3,8 +3,8 @@
 title: Krish
 
 # Username (this should match the folder name)
-#authors:
- # - krish
+authors:
+  - krish
 
 # Is this the primary user of the site?
 superuser: false
