@@ -22,6 +22,6 @@ design:
 
 ## Our Mission
 
-##### 1. Developing advanced  high order finite element methods for Partial Differential Equations.
+###### 1. Developing advanced  high order finite element methods for Partial Differential Equations.
 
-<sup>2. Developing scalable solvers for future supercomputing systems to simulate complex physical problems.<sup>
+###### 2. Developing advanced  high order finite element methods for Partial Differential Equations.
