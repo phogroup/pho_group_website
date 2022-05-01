@@ -22,8 +22,10 @@ design:
 
 ## Our Mission
 
-###### 1. Developing advanced  high order finite element methods for Partial Differential Equations.
+---
 
-###### 2. Developing scalable solvers for future supercomputing systems to simulate complex physical problems.
+ 1. Developing advanced  high order finite element methods for Partial Differential Equations.
 
-###### 3. Developing advanced statistical and mathematical  algorithms for large-scale inverse problems and uncertainty quantification problems.
+ 2. Developing scalable solvers for future supercomputing systems to simulate complex physical problems.
+
+ 3. Developing advanced statistical and mathematical  algorithms for large-scale inverse problems and uncertainty quantification problems.
