@@ -23,7 +23,7 @@ design:
 ## Our Mission
 
 
-<font size="2">
+<font size="3">
 
  1. Developing advanced  high order finite element methods for Partial Differential Equations.
 
