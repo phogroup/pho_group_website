@@ -24,6 +24,7 @@ design:
 
 ---
 <font size="1">
+
  1. Developing advanced  high order finite element methods for Partial Differential Equations.
 
  2. Developing scalable solvers for future supercomputing systems to simulate complex physical problems.
