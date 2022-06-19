@@ -1,5 +1,5 @@
 ---
-title: To be updated soon!!
+title: Managing big simulation data for inverse problems with autoencoders
 date: 2020-12-01
 ---
 
