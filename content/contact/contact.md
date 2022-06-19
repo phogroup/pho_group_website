@@ -15,7 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
+  email: cg.krishnanunni@gmail.com
   phone: 888 888 88 88
   address:
     street: 450 Serra Mall
