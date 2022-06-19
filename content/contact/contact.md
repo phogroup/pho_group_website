@@ -17,7 +17,7 @@ content:
 
   email: aliddell@oden.utexas.edu
   phone: 512 471 2154
-  address: POB 5.124A, Oden Institute for Computational Engineering and Sciences
+  address: 
     street: University of Texas at Austin
     city: Austin
     region: Texas
