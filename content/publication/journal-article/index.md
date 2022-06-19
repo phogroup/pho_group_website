@@ -8,11 +8,11 @@ authors:
 #author_notes:
  # - 'Equal contribution'
  # - 'Equal contribution'
-date: '2022-1-1'
+date: '2022-01-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-1-1'
+publishDate: '2022-01-01'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
