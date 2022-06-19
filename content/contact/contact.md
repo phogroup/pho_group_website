@@ -43,8 +43,8 @@ content:
 
   # Email form provider
   form:
-    provider: netlify
-    formspree: 
+    provider: formspree
+    formspree: xbjwejzg
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
