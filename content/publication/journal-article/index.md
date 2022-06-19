@@ -31,7 +31,7 @@ publication_short: ''
 
 #tags:
  # - Source Themes
-#featured: false
+featured: false
 
 # links:
 # - name: ""
@@ -49,7 +49,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder.
 #image:
  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  #focal_point: ''
+ # focal_point: ''
  # preview_only: false
 
 # Associated Projects (optional).
@@ -57,18 +57,18 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-#projects: []
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-#slides:
-#---
+slides:
+---
 
-#{{% callout note %}}
-#Click the _Cite_ button above to demo the feature to enable visitors to #import publication metadata into their reference management software.
-#{{% /callout %}}
+{{% callout note %}}
+Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
 
-#Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
