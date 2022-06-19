@@ -15,18 +15,18 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: cg.krishnanunni@gmail.com
-  phone: 888 888 88 88
-  address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+  email: aliddell@oden.utexas.edu
+  phone: (512) 471-2154
+  address: POB 5.124A, Oden Institute for Computational Engineering and Sciences
+    street: University of Texas at Austin
+    city: Austin
+    region: Texas
+    postcode: '78712'
     country: United States
     country_code: US
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+    latitude: '30.28698'
+    longitude: '-97.73526'
   directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
     - 'Monday 10:00 to 13:00'
