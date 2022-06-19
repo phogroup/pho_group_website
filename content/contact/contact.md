@@ -45,8 +45,8 @@ content:
   form:
     provider: netlify
     formspree: 
-      id: cg.krishnanunni@gmail.com
-    netlify: cg.krishnanunni@gmail.com
+      id: 
+    netlify: 
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
 
