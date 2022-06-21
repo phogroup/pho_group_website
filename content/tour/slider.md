@@ -39,9 +39,9 @@ content:
         color: '#333'
         brightness: 0.7
         media: jau_uei.gif
-      link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: Join Us
-        url: ../contact/
+      #link:
+       # icon: graduation-cap
+        #icon_pack: fas
+        #text: Join Us
+        #url: ../contact/
 ---
