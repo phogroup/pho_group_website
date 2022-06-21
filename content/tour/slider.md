@@ -38,7 +38,7 @@ content:
         position: center
         color: '#333'
         brightness: 0.5
-        media: jau_uei.webm
+        media: jau_uei.gif
       link:
         icon: graduation-cap
         icon_pack: fas
