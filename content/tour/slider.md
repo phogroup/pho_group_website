@@ -25,9 +25,9 @@ content:
         media: welcome.jpg
     - title: 
       content: ''
-      align: right
+      align: center
       background:
-        position: center
+        position: right
         color: '#666'
         brightness: 0.7
         media: jau_uei.gif
