@@ -29,7 +29,7 @@ content:
       background:
         position: center
         color: '#555'
-        brightness: 0.7
+        brightness: 0.9
         media: mangll.gif
     - title: 
       content: ''
@@ -37,7 +37,7 @@ content:
       background:
         position: center
         color: '#333'
-        brightness: 0.7
+        brightness: 0.9
         media: jau_uei.gif
       #link:
        # icon: graduation-cap
