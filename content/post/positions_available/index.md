@@ -1,5 +1,5 @@
 ---
-title: Ph.D positions and Post-Doc positions available!!
+title: Ph.D positions and Post-doc positions available!!
 date: 2022-21-06
 ---
 
