@@ -17,13 +17,13 @@ publishDate: '2021-01-01'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: 'SIAM news, Volume 54(6)'
 #publication_short: ''
 
-abstract: We show that the Bayes theorem is in fact an optimal way to blend prior and observational information using three different perspectives: two from information theory and one from the duality of variational inference.
+abstract: We show that the Bayes theorem is in fact an optimal way to blend prior and observational information using three different perspectives; two from information theory and one from the duality of variational inference.
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
