@@ -1,10 +1,10 @@
 ---
 title: 'Simulation of the 3D hyperelastic behavior of ventricular myocardium using a finite-element based neural-network approach'
 authors:
-  - Wenbo Zhang
-  - David S Li
-  - Tan Bui-Thanh
-  - Michael S Sacks
+  - Zhang W  
+  - Li DS
+  - Bui-Thanh T
+  - Sacks MS
 #author_notes:
  # - 'Equal contribution'
  # - 'Equal contribution'
