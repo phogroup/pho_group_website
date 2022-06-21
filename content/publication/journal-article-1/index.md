@@ -1,5 +1,5 @@
 ---
-title: 'Simulation of the 3D hyperelastic behavior of ventricular myocardium using a finite-element based neural-network approach'
+title: 'DIAS: A Data-Informed Active Subspace Regularization Framework for Inverse Problems'
 authors:
   - Nguyen H 
   - Wittmer J
