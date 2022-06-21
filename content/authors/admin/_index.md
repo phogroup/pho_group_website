@@ -45,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '	tanbui@ices.utexas.edu'
+    link: 'tanbui@ices.utexas.edu'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=mFPXD90AAAAJ&hl=en
