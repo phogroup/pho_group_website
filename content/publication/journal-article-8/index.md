@@ -20,7 +20,7 @@ publishDate: '2021-01-01'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Handbook of Mathematical Models and Algorithms in Computer Vision and Imaging,1-38'
+publication: 'Handbook of Mathematical Models and Algorithms in Computer Vision and Imaging, 1-38'
 #publication_short: ''
 
 abstract: This chapter presents a new regularization method for inverse and imaging problems, called data-informed (DI) regularization, that implicitly avoids regularizing the data-informed directions. Our approach is inspired by and has a rigorous root in disintegration theory. We shall, however, present an elementary and constructive path using the classical truncated SVD and Tikhonov regularization methods. Deterministic and statistical properties of the DI approach are rigorously discussed, and numerical results for image deblurring, image denoising, and X-ray tomography are presented to verify our findings.
