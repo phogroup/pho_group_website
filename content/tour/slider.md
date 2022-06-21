@@ -38,7 +38,7 @@ content:
         position: center
         color: '#333'
         brightness: 0.5
-        media: mangll.gif
+        media: HKMH3d_vorz.gif
       link:
         icon: graduation-cap
         icon_pack: fas
