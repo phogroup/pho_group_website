@@ -1,9 +1,8 @@
 ---
-title: 'Bridging and Improving Theoretical and Computational Electrical Impedance Tomography via Data Completion'
+title: 'A Unified and Constructive Framework for the Universality of Neural Networks'
 authors:
   - Bui-Thanh T
-  - Li Q
-  - Zepeda-Núñez L
+
 
 #author_notes:
  # - 'Equal contribution'
@@ -18,13 +17,13 @@ publishDate: '2022-01-01'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: ' SIAM Journal on Scientific Computing, Volume 44(3), B668-B693'
+publication: 'arXiv preprint'
 #publication_short: ''
 
-abstract: In computational PDE-based inverse problems, a finite amount of data is collected to infer unknown parameters in the PDE. In order to obtain accurate inferences, the collected data must be informative about the unknown parameters. How to decide which data is most informative and how to efficiently sample it is the notoriously challenging task of optimal experimental design (OED). In this context, the best, and often infeasible, scenario is when the full input-to-output (ItO) map, i.e., an infinite amount of data, is available; This is the typical setting in many theoretical inverse problems, which is used to guarantee the unique parameter reconstruction. These two different settings have created a gap between computational and theoretical inverse problems, where finite and infinite amounts of data are used, respectively. In this article we aim to bridge this gap while circumventing the OED task. This is achieved by exploiting the structures of the ItO data from the underlying inverse problem, using the electrical impedance tomography (EIT) problem as an example. To accomplish our goal, we leverage the rank structure of the EIT model and formulate the ItO matrix\textemdash the discretized ItO map\textemdash as an $\mathcal{H}$-matrix whose off-diagonal blocks are low rank. This suggests that, when equipped with the matrix completion technique, one can recover the full ItO matrix, with high probability, from a subset of its entries sampled following the rank structure; The data in the diagonal blocks is informative and should be fully sampled, while data in the off-diagonal blocks can be subsampled. This recovered ItO matrix is then utilized to present the full ItO map up to a discretization error, paving the way to connect with the problem in the theoretical setting where the unique reconstruction of parameters is guaranteed. This strategy achieves two goals; (I) it bridges the gap between the finite- and infinite-dimensional settings for numerical and theoretical inverse problems and (II) it improves the quality of computational inverse solutions. We detail the theory for the EIT model and provide numerical verification to both EIT and optical tomography problems.
+abstract: One of the reasons why many neural networks are capable of replicating complicated tasks or functions is their universal property. Though the past few decades have seen tremendous advances in theories of neural networks, a single constructive framework for neural network universality remains unavailable. This paper is an effort to provide a unified and constructive framework for the universality of a large class of activations including most of existing ones. At the heart of the framework is the concept of neural network approximate identity (nAI). The main result is: {\em any nAI activation function is universal}. It turns out that most of existing activations are nAI, and thus universal in the space of continuous functions on compacta. The framework has the following main properties. First, it is constructive with elementary means from functional analysis, probability theory, and numerical analysis. Second, it is the first unified attempt that is valid for most of existing activations. Third, as a by product, the framework provides the first university proof for some of the existing activation functions including Mish, SiLU, ELU, GELU, and etc. Fourth, it provides new proofs for most activation functions. Fifth, it discovers new activations with guaranteed universality property. Sixth, for a given activation and error tolerance, the framework provides precisely the architecture of the corresponding one-hidden neural network with predetermined number of neurons, and the values of weights/biases. Seventh, the framework allows us to abstractly present the first universal approximation with favorable non-asymptotic rate.
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -35,7 +34,7 @@ abstract: In computational PDE-based inverse problems, a finite amount of data i
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://epubs.siam.org/doi/abs/10.1137/21M141703X
+url_pdf: https://arxiv.org/abs/2112.14877
 url_code: ''
 url_dataset: ''
 url_poster: ''
