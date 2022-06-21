@@ -28,7 +28,7 @@ content:
       align: left
       background:
         position: center
-        color: '#555'
+        color: '#666'
         brightness: 0.9
         media: mangll.gif
     - title: 
@@ -36,7 +36,7 @@ content:
       align: right
       background:
         position: center
-        color: '#333'
+        color: '#666'
         brightness: 0.9
         media: jau_uei.gif
       #link:
