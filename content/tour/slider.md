@@ -29,15 +29,15 @@ content:
       background:
         position: center
         color: '#555'
-        brightness: 0.7
+        brightness: 1
         media: mangll.gif
     - title: 
-      content: ''
-      align: right
+      content: 'Take a look at what we're working '
+      align: bottom
       background:
         position: center
         color: '#333'
-        brightness: 0.5
+        brightness: 1
         media: jau_uei.gif
       link:
         icon: graduation-cap
