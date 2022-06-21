@@ -17,21 +17,21 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Inverse problems
-  - Uncertainty quantification
-  - Numerical analysis
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
   courses:
-    - course: Ph.D in Computational Fluid Dynamics
+    - course: PhD in Artificial 
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
-      year: 2007
-    - course: M.Eng in High Performance Computation ofr Engineered System
-      institution: Nanyang Technological University
-      year: 2003
-    - course: BE in Aeronautics
-      institution: Ho Chi Minh City University of Technology
-      year: 2001
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -40,11 +40,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'tanbui@ices.utexas.edu'
+    link: 'mailto:test@example.org'
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=mFPXD90AAAAJ&hl=en
-
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
