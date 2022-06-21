@@ -20,11 +20,6 @@ interests:
   - Inverse problems
   - Uncertainty quantification
   - Numerical analysis
-  - Numerical optimization
-  - Reduced-order modeling
-  - Scientific computing
-  - Parellel computing
-  - Model-constrained Machine Learning
 
 education:
   courses:
