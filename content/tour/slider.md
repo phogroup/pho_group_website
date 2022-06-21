@@ -25,14 +25,6 @@ content:
         media: welcome.jpg
     - title: 
       content: ''
-      align: left
-      background:
-        position: center
-        color: '#666'
-        brightness: 0.9
-        media: mangll.gif
-    - title: 
-      content: ''
       align: right
       background:
         position: center
