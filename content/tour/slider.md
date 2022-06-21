@@ -29,7 +29,7 @@ content:
       background:
         position: center
         color: '#666'
-        brightness: 0.9
+        brightness: 0.7
         media: jau_uei.gif
       #link:
        # icon: graduation-cap
