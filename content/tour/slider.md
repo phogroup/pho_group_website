@@ -33,7 +33,7 @@ content:
         media: mangll.gif
     - title: 
       content: 'Take a look at what we're working '
-      align: bottom
+      align: right
       background:
         position: center
         color: '#333'
