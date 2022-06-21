@@ -31,10 +31,10 @@ education:
     - course: Ph.D in Computational Fluid Dynamic 
       institution:  Massachusetts Institute of Technology
       year: 2007
-    - course: M.Eng. in High Performance Computation for Engineered System
+    - course: M.Eng in High Performance Computation for Engineered System
       institution:  Nanyang Technological University
       year: 2003
-    - course: B.Eng. in Aeronautics (with honors)
+    - course: B.Eng in Aeronautics (with honors)
       institution: Ho Chi Minh City University of Technology
       year: 2001
 
@@ -45,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'tanbui@ices.utexas.edu'
+    link: 'mailto:tanbui@ices.utexas.edu'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=mFPXD90AAAAJ&hl=en
