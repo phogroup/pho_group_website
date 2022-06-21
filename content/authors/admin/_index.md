@@ -68,8 +68,6 @@ user_groups:
   - Associate Professor
 ---
 
-Since joining the Institute for Computational Engineering and Sciences in June 2008 as postdoctoral fellow, and then research associate, and then research scientist, Dr. Bui-Thanh has been conducting interdisciplinary research across different areas of computational science and applied mathematics. In particular, he has made important contributions to computational electromagnetics, computational geosciences, parallel computing, large scale partial-differential-equation-constrained optimization, computational inverse problems, uncertainty quantication, and numerical analysis.
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-There are two common thrusts in Tan Bui's research that motivate and drive each other. The first one is to devise (large-scale) scalable, efficient, and rigorous numerical algorithms to simulate difficult problems in engineering and sciences. The second one, which is the ultimate goal, is to develop scalable methodologies for computer predictions with quantifiable uncertainty.
-
-Dr. Bui-Thanh joined the Department of Aerospace Engineering and Engineering Mechanics at the University of Texas at Austin in August 2013. His current research focus is on developing scalable methods for data-driven large-scale uncertainty quantification, statistical methods for managing big data in simulations and observations, and scientific Machine Learning.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
