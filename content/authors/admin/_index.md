@@ -3,7 +3,7 @@
 title: Tan Bui-Thanh
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Leader of PHO-ICES Group
