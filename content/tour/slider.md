@@ -36,7 +36,7 @@ content:
       content: ''
       align: center
       background:
-        position: top
+        position: center
         color: '#666'
         brightness: 0.7
         media: mangll_animation_frame.png
