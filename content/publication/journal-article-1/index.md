@@ -3,7 +3,7 @@ title: 'Simulation of the 3D hyperelastic behavior of ventricular myocardium usi
 authors:
   - Wenbo Zhang
   - David S Li
-  - Tan Bui
+  - Tan Bui-Thanh
   - Michael S Sacks
 #author_notes:
  # - 'Equal contribution'
