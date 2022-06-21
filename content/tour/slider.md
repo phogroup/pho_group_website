@@ -31,6 +31,15 @@ content:
         color: '#666'
         brightness: 0.7
         media: jau_uei.gif
+        
+    - title: 
+      content: ''
+      align: center
+      background:
+        position: right
+        color: '#666'
+        brightness: 0.7
+        media: mangll_animation_frame.png
       #link:
        # icon: graduation-cap
         #icon_pack: fas
