@@ -17,21 +17,26 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Inverse problems
+  - Uncertainty quantification
+  - Numerical analysis
+  - Numerical optimization
+  - Reduced-order modeling
+  - Scientific computing
+  - Parellel computing
+  - Model-constrained Machine Learning
 
 education:
   courses:
-    - course: PhD in Artificial 
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
+    - course: Ph.D in Computational Fluid Dynamics
       institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2007
+    - course: M.Eng in High Performance Computation ofr Engineered System
+      institution: Nanyang Technological University
+      year: 2003
+    - course: BE in Aeronautics
+      institution: Ho Chi Minh City University of Technology
+      year: 2001
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -40,16 +45,11 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'tanbui@ices.utexas.edu'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=mFPXD90AAAAJ&hl=en
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,6 +68,8 @@ user_groups:
   - Associate Professor
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Since joining the Institute for Computational Engineering and Sciences in June 2008 as postdoctoral fellow, and then research associate, and then research scientist, Dr. Bui-Thanh has been conducting interdisciplinary research across different areas of computational science and applied mathematics. In particular, he has made important contributions to computational electromagnetics, computational geosciences, parallel computing, large scale partial-differential-equation-constrained optimization, computational inverse problems, uncertainty quantication, and numerical analysis.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+There are two common thrusts in Tan Bui's research that motivate and drive each other. The first one is to devise (large-scale) scalable, efficient, and rigorous numerical algorithms to simulate difficult problems in engineering and sciences. The second one, which is the ultimate goal, is to develop scalable methodologies for computer predictions with quantifiable uncertainty.
+
+Dr. Bui-Thanh joined the Department of Aerospace Engineering and Engineering Mechanics at the University of Texas at Austin in August 2013. His current research focus is on developing scalable methods for data-driven large-scale uncertainty quantification, statistical methods for managing big data in simulations and observations, and scientific Machine Learning.
