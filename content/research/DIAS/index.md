@@ -2,7 +2,11 @@
 title: Active subspaces data-informed approach for inverse problems
 date: 2020-12-01
 ---
-
+<script src="//yihui.org/js/math-code.js" defer></script>
+<!-- Just one possible MathJax CDN below. You may use others. -->
+<script defer
+  src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 
 
 <!--more-->
