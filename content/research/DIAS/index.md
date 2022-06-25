@@ -37,9 +37,9 @@ The latter consists of
 
 The figure 1 shows the obatained results by all four methods with very large regularization parameter, as opposed to the Tikhonov method (which is overregularized). Firstly, with one-dimensional active subspace, ACT, ACT-Full, and ACT-M-Full methods give better reconstructions than Tik. Secondly, in optimal rank, all methods are robust in terms of regulariation parameter. In other words, we can avoid overregularize the informed data modes. Table 1. presents the relative error of the inverse image.
 
-![image](/assets/figures/hainguyen/AS_X_ray_1.png)
+![image](AS_X_ray_1.png)
 
-![image1](/assets/figures/hainguyen/AS_X_ray_2.png)
+![image1](AS_X_ray_2.png)
 
 #### Nonlinear PDE-constrained inverse problem
 
@@ -60,7 +60,7 @@ Without the active subspace, we must take time to tune properly the regularizati
 --->
 Fig 2 shows that our active subspace data-informed approach outperforms the traditional Tikhonov inversion method.
 
-![image2](/assets/figures/hainguyen/AS_non_linear.png)
+![image2](AS_non_linear.png)
 
 
 
