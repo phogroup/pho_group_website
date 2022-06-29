@@ -31,6 +31,15 @@ content:
         color: '#666'
         brightness: 0.7
         media: Hai_Heat_eq.png
+
+    - title: 
+      content: ''
+      align: center
+      background:
+        position: left
+        color: '#666'
+        brightness: 0.7
+        media: Hai_NS_eq.png
         
     - title: 
       content: ''
