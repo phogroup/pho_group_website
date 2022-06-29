@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-    - course: PhD in Civil Engineering
+    - course: BS in Civil Engineering
       institution: Ho Chi Minh City University of Technology
       year: 2012
     - course: MEng in Civil Engineering
