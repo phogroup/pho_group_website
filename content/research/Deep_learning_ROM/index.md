@@ -129,6 +129,17 @@ $$\begin{equation}
 
  The trial and test reduced spaces for the adjoint solution is chosen to be finer than the reduced order model space by solving the latter system with a truncated basis obtained from the former system.
 
+ #### Uncertainty Quantification using MCMC
+
+In order to quantify the uncertainty of the estimates provided by the inference using DL-enhanced reduced order models, a Bayesian formulation was developed. Markov Chain Monte Carlo methods provide the ability to draw samples from the posterior distribution of the parameter space conditioned on observational data while providing the ability to encode prior information. In order to efficiently explore the high-dimensional parameter spaces resulting from finite element discretizations of infinite-dimensional spaces, the Hamiltonian Monte Carlo algorithm is employed which leverages parameter sensitivity information to efficiently draw posterior samples. The No-U-Turn Sampler is used to set the path lengths in an adaptive fashion. The parameter sensitivities themselves are obtained using automatic differentiation for the deep learning components and the adjoint method for the reduced order model component. Despite using state-of-the-art Bayesian posterior sampling techniques, the required samples to accurately quantify uncertainty seem prohibitively expensive as seen from preliminary experiments. Future work aims to explore variational inference methods to improve the computational efficiency of the uncertainty quantification. 
+
+
+### References
+
+[1] Meyer, Marcus, and Hermann G. Matthies. "Efficient model reduction in non-linear dynamics using the Karhunen-Loeve expansion and dual-weighted-residual methods." Computational Mechanics 31.1-2 (2003): 179-191.
+
+[2] Sheriffdeen, Sheroze, et al. "Accelerating PDE-constrained Inverse Solutions with Deep Learning and Reduced Order Models." arXiv preprint arXiv:1912.08864 (2019).
+
 
 
 
