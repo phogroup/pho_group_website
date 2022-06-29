@@ -30,7 +30,7 @@ content:
         position: center
         color: '#666'
         brightness: 0.7
-        media: jau_uei.gif
+        media: Hai_Heat_eq.png
         
     - title: 
       content: ''
