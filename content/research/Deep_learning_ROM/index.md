@@ -59,8 +59,8 @@ The aforementioned deep learning error models for reduced order models enlarge t
 ### Significant Results
 
 #### Accelerating Inverse Problems using Reduced Order Models and Deep Learning
-![image](/assets/figures/sheroze/reconstruction.png)
-![image2](/assets/figures/sheroze/reconstruction_error.png)
+![image](reconstruction.png)
+![image2](reconstruction_error.png)
 
 The application of the enhanced reduced order model to neutron transport was verified using comparing the relative prediction error for a quantity of interest (scalar flux over a region of interest) compared to an expensive high-fidelity solution obtained from solving the full transport equations. The reduced order model for this problem is obtained in a physics-informed manner using a diffusion approximation to the collided component of the total transport flux along with energy group collapsing to form discrete energy bins from continuous energy. Further reduction in dimensionality is obtained using a projection of the the governing equations to a reduced space. The numerical experiment for this problem employed the iron-water benchmark, a standard 1-group 2D benchmark for transport solution techniques comprising of three spatial zones. The training parameter set for removal and scattering cross section values was randomly drawn uniformly from predetermined intervals. The neural network was trained to learn the discrepancy between the high-fidelity transport solution and the reduced order models. The average relative prediction error for the validation dataset shows comparable accuracy to the high-fidelity model when the deep learning correction was applied to the physics-informed reduced order models and the projection-based reduced order model. These experiments lend evidence to the ability of the discrepancy function to accurately model reduced order model errors compared to the high-fidelity transport solutions.
 
