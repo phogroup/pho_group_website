@@ -34,7 +34,7 @@ $$\begin{equation}
     \mathbf{F}(\mathbf{\kappa}) = \tilde{\mathbf{y}}(\mathbf{\kappa}) = \mathbf{y}\_r \LRp{\mathbf{\kappa}, \Phi} + \varepsilon\_{\mathrm{NN}}(\mathbf{\kappa},\boldsymbol{\theta})
 \end{equation}$$
 
-where $$\Phi$$ is the reduced trial basis, and $$\theta$$ parametrizes a deep dense feed-forward neural network. 
+where $$\Phi$$ is the reduced trial basis. 
 
 
 
