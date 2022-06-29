@@ -26,12 +26,12 @@ $$\begin{eqnarray}
 \text{s. t.} \quad &  \mathbf{R}(\boldsymbol{w}, \mathbf{\kappa}) = 0
 \end{eqnarray}$$
 
-where $$\mathbf{y}^{\text{obs}}$$ represents the measured observations, $$\mathbf{F}$$ is the parameter-to-observation map, $$\kappa$$ is the parameter vector, $$\Sigma$$ is the measurement noise covariance, $$\mathcal{R}(\mathbf{\kappa})$$ is the regularization operator introduced to make the inverse problem well-posed, $$\gamma$$ is the coefficient of regularization, and $$\mathbb{R}$$ is the governing model.
+where $$\mathbf{y}^{\text{obs}}, \ \mathbf{F}, \ \kappa, \ \Sigma, \ \mathcal{R}(\mathbf{\kappa}), \ \gamma, \ \mathbb{R}$$ represents the measured observations,  the parameter-to-observation map,  parameter vector,    measurement noise covariance,  regularization operator introduced to make the inverse problem well-posed,   coefficient of regularization, and  the governing model respectively.
 
 The proposed DL-enhanced ROM quantity of interest reads
 
 $$\begin{equation}
-    \mathbf{F}(\mathbf{\kappa}) = \tilde{\mathbf{y}}(\mathbf{\kappa}) = \mathbf{y}_r \LRp{\mathbf{\kappa}, \Phi} + \varepsilon_{\mathrm{NN}}(\mathbf{\kappa},\boldsymbol{\theta})
+    \mathbf{F}(\mathbf{\kappa}) = \tilde{\mathbf{y}}(\mathbf{\kappa}) = \mathbf{y}\_r \LRp{\mathbf{\kappa}, \Phi} + \varepsilon\_{\mathrm{NN}}(\mathbf{\kappa},\boldsymbol{\theta})
 \end{equation}$$
 
 where $$\Phi$$ is the reduced trial basis, and $$\theta$$ parametrizes a deep dense feed-forward neural network. 
