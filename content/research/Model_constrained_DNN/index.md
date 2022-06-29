@@ -22,11 +22,11 @@ The main idea is that we take advantage of the forward map G for regularizing th
 
 
 
-$$ \min_{m} \mathcal{J} := \frac{1}{2} \int_{\Omega} (u - u_d)^2 \, dx + \frac{\gamma}{2} \int_{\Omega} | \nabla m|^2 \, dx, $$ 
 
 
 
-$$ \min_{b,W} \frac{1}{2} | U - (WY + B) | +\frac{\alpha}{2} |  Y -G (WY + B)|.$$
+
+$$ \min_{b,W} \frac{1}{2} | U - (WY + B) |\_{\Gamma^{-1}}^2 +\frac{\alpha}{2} |  Y -G (WY + B)|\_{\Lambda^{-1}}^2.$$
 
 The optimal solution of the DNN training problem can be shown to be exactly the solution of the following regularized linear inverse problem
 
