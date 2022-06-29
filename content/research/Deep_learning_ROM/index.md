@@ -122,8 +122,9 @@ $$\begin{equation}
  \end{equation}$$
 
  yielding the a posteriori error bound
+
  $$\begin{equation} 
-     |\mathbf{y}(\boldsymbol{w}) - \mathbf{y}(\Phi \boldsymbol{w}_r)| \le \sum_{i=1}^{d} |\tilde{\lambda}_i| |\mathbf{R}(\Phi \boldsymbol{w}_r)_i|
+     |\mathbf{y}(\boldsymbol{w}) - \mathbf{y}(\Phi \boldsymbol{w}\_r)| \le \sum\_{i=1}^{d} |\tilde{\lambda}\_i| |\mathbf{R}(\Phi \boldsymbol{w}\_r)\_i|
  \end{equation}$$
 
  The trial and test reduced spaces for the adjoint solution is chosen to be finer than the reduced order model space by solving the latter system with a truncated basis obtained from the former system.
