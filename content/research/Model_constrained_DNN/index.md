@@ -20,6 +20,12 @@ In this project, we introduce several model-constrained approaches—including b
 
 The main idea is that we take advantage of the forward map G for regularizing the network. Moreover, we also expect that it is consistent with the form of the inverse solution; and thus, improving the accuracy of the training test. To have some intitutions of the method, let us look at the case of linear network and linear inverse problem with linear operator. The formulation of mcDNN approach is
 
+
+$$ u = 0 \quad  \text{on} \quad  \partial \Omega $$
+
+
+
+
 $$ \min_{b,W} \frac{1}{2} \left\| U - (WY + B) \right\|_{\Gamma^{-1}}^2 +\frac{\alpha}{2} \left\|  Y -G (WY + B)\right\|_{\Lambda^{-1}}^2.$$
 
 The optimal solution of the DNN training problem can be shown to be exactly the solution of the following regularized linear inverse problem
