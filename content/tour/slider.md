@@ -59,15 +59,6 @@ content:
         brightness: 0.7
         media: Fig1-LS8_1orbit.png
 
-     - title: 
-        content: ''
-        align: center
-        background:
-          position: left
-          color: '#666'
-          brightness: 0.7
-          media: Adaptation.png  
-
       #link:
        # icon: graduation-cap
         #icon_pack: fas
