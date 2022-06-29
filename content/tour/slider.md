@@ -6,7 +6,7 @@ headless: true
 
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
-  slide_height: '400px'
+  slide_height: ''
   is_fullscreen: true
   # Automatically transition through slides?
   loop: true
@@ -58,6 +58,15 @@ content:
         color: '#666'
         brightness: 0.7
         media: Fig1-LS8_1orbit.png
+
+    - title: 
+      content: ''
+      align: center
+      background:
+        position: left
+        color: '#666'
+        brightness: 0.7
+        media: Adaptation.png
 
       #link:
        # icon: graduation-cap
