@@ -19,13 +19,9 @@ The proposed framework has been demonstrated on  regression problems such as the
 
 In particular we also demonstrate that the procedure can be used for progressively learning the solutions of PDE. Figure below shows the adaptive approach where one progressively learn the solution of Poisson's equation. 
 
-![image](adaptation_1.png)
+![image](adaptation_3.png)
 
-    Fig 1: Neural architecture adaptation for progressively learning the solution of Poisson's equation
-
-![image2](adaptation_2.png)
-
-    Fig 2: Final Neural network solution (on the left) vs True solution (on the right)
+ 
 
 
 
