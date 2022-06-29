@@ -36,5 +36,14 @@ $$\begin{equation}
 
 where $$\Phi$$ is the reduced trial basis. 
 
+### Model-Aware Deep Neural Networks
+
+Training neural networks to accurately and efficiently solve physical problems purely using data-driven techniques require prohibitive amounts of data to be gathered from large number of experimentation scenarios. Mathematical models contain important information regarding the relationships between important quantities of interest. This information can be used to augment the training of neural networks. We formulated a neural network optimization framework that introduces the constraints posed by mathematical models as a penalization term to the neural network loss functions. This penalization term biases trained models towards minimizing the residuals of the constraint equations of the underlying mathematical model.
+
+Deep learning optimization problems are usually solved using highly optimized tensor computation frameworks such as Tensorflow whereas mathematical models, particularly those that involve partial differential equations, are solved using various numerical libraries calibrated for physical quantities which may not be represented as tensors. The model-aware training of neural networks thus require interoperating these libraries by formulating physical models as tensor computations. We introduce the ability to encode physical constraints in linear elliptic problems defined using FEniCS, a library to solve partial differential equations, into Tensorflow's neural network tensor-based loss functions. The combined loss function can be used to train model-aware neural networks with efficient consumption of observational data.
+
+Furthermore, we formulated model-aware loss function to encode physical information for time-dependent problems by adding a term that penalizes errors between network predictions at a given time compared to the time-stepping prediction of the mathematical model. This introduces temporal dependencies in the quantities of interest to the neural network. Preliminary experiments in auto-encoding state in a time-dependent heat equation shows that the model-aware network shows better accuracy than a purely data-driven network.
+
+
 
 
