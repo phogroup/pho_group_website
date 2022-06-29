@@ -27,7 +27,7 @@ content:
       content: ''
       align: center
       background:
-        position: right
+        position: left
         color: '#666'
         brightness: 0.7
         media: Hai_Heat_eq.png
@@ -36,7 +36,7 @@ content:
       content: ''
       align: center
       background:
-        position: center
+        position: left
         color: '#666'
         brightness: 0.7
         media: hp_HDG.png
