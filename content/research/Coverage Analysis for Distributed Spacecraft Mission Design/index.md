@@ -42,7 +42,7 @@ resolution over wide regions, and over long simulation periods. With the fundame
 we additionally impose instrument models within access calculation, which is the basis of current
 research.
 
-![](Fig1-LS8_1orbit)
+![](Fig1-LS8_1orbit.png)
 
 ![](Fig2-num_looks.png)
 
