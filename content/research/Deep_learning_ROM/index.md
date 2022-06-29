@@ -44,6 +44,23 @@ Deep learning optimization problems are usually solved using highly optimized te
 
 Furthermore, we formulated model-aware loss function to encode physical information for time-dependent problems by adding a term that penalizes errors between network predictions at a given time compared to the time-stepping prediction of the mathematical model. This introduces temporal dependencies in the quantities of interest to the neural network. Preliminary experiments in auto-encoding state in a time-dependent heat equation shows that the model-aware network shows better accuracy than a purely data-driven network.
 
+### Specific Objectives
+
+#### Accelerating Inverse Problems using Reduced Order Models and Deep Learning
+
+I am currently employing reduced order models improved by deep learning error models to accelerate solving inverse problems using aforementioned methods. The research paper will be submitted to the SIAM Journal on Scientific Computing. [2]
+
+#### Preliminary Research on Stein-Variational Inference
+
+I am currently exploring new research avenues on improving Bayesian inference using Stein-variational methods by incorporating reduced order models and model-aware deep learning.
+
+
+#### Optimizing hyper-parameters of neural networks
+Learning the error between the full model and the reduced model is a high-dimensional deep learning regression problem whose performance is sensitive to the particular architecture of the deep neural network model. These so-called hyperparameters of the deep learning model were determined using a Bayesian optimization framework. A Gaussian process surrogate model is employed to parametrize the performance of the neural network as a function of the hyper-parameters. This approach to pick hyper-parameters improves on grid search and random search as the sampling procedure better explores the hyper-parameter space by leveraging information from previous neural network architectures.
+
+#### Spatial Averaging to Hyper-Reduce Model Order
+The aforementioned deep learning error models for reduced order models enlarge the validity of projection-based model order reduction by capturing their errors in a data-driven fashion. In the regime of data prevalence, this corrective term can be used to learn errors for parameter dependent reduced order models created in a hyper-reduced fashion. Spatially-varying parameters governing the model can be averaged to induce an affine parameter dependence enabling precomputation of reduced order matrices, thereby accelerating evaluations of these models. This averaging process depends only on the geometry of the problem domain and can be performed cheaply using finite elements. The resulting computationally efficient ROMs can be improved in their accuracy using the deep learning error model in a data-driven fashion to create a hybrid model that is accurate and computationally efficient. This method was employed in solving inverse problems for steady heat conduction and advection-diffusion problems.
+
 
 
 
