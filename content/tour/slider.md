@@ -27,7 +27,7 @@ content:
       content: ''
       align: center
       background:
-        position: center
+        position: right
         color: '#666'
         brightness: 0.7
         media: Hai_Heat_eq.png
@@ -41,14 +41,7 @@ content:
         brightness: 0.7
         media: hp_HDG.png
 
-    - title: 
-      content: ''
-      align: center
-      background:
-        position: center
-        color: '#666'
-        brightness: 0.7
-        media: MHD_HDG.png
+
       #link:
        # icon: graduation-cap
         #icon_pack: fas
