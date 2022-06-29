@@ -27,7 +27,7 @@ content:
       content: ''
       align: center
       background:
-        position: center
+        position: bottom
         color: '#666'
         brightness: 0.7
         media: Hai_Heat_eq.png
