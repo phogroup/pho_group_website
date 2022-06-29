@@ -31,7 +31,7 @@ $$ \min_{b,W} \frac{1}{2} | U - (WY + B) |\_{\Gamma^{-1}}^2 +\frac{\alpha}{2} | 
 The optimal solution of the DNN training problem can be shown to be exactly the solution of the following regularized linear inverse problem
 
 $$
-\min_{u} \frac{1}{2}  \left\|y_{\text{obs}} - G u\right\|\_{\Gamma^{-1}}^2 + \frac{1}{2\alpha} \left\|u - u_0 \right\|\_{\Lambda^{-1}}^2,
+\min\_{u} \frac{1}{2}  \left\|y\_{\text{obs}} - G u\right\|\_{\Gamma^{-1}}^2 + \frac{1}{2\alpha} \left\|u - u\_0 \right\|\_{\Lambda^{-1}}^2,
 $$
 
 where
