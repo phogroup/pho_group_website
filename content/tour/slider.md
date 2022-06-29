@@ -39,7 +39,7 @@ content:
         position: center
         color: '#666'
         brightness: 0.7
-        media: mangll_animation_frame.png
+        media: hp_HDG.png
       #link:
        # icon: graduation-cap
         #icon_pack: fas
