@@ -76,5 +76,58 @@ The errors committed by projection-based reduced order models in their predictio
 
 An estimate of the QoI error due to model order reduction can be obtained efficiently using the dual-weighted residual method [1]. To illustrate the a posteriori error estimation technique, we consider a system for a fixed parameter instance. The governing reduced order model is,
 
+$$\begin{equation}
+     \Psi^T \mathbf{R}(\Phi \boldsymbol{w}_r) = 0
+ \end{equation}$$
+
+ The error in the QoI can be approximated using a Taylor expansion
+
+ $$\begin{equation} 
+     \mathbf{y}(\boldsymbol{w}) - \mathbf{y}(\Phi \boldsymbol{w}_r) \approx \dfrac{\partial y}{\partial \boldsymbol{w}}(\Phi \boldsymbol{w}_r) (\boldsymbol{w} - \Phi \boldsymbol{w}_r)
+ \end{equation}$$
+
+ The error in the residual due to the reduced model solution can also be approximated as,
+
+ $$\begin{equation} 
+     \mathbf{R}(\boldsymbol{w}) \approx \mathbf{R}(\Phi \boldsymbol{w}_r) + \dfrac{\partial \mathbf{R}}{\partial \boldsymbol{w}}(\phi \boldsymbol{w}_r) (\boldsymbol{w} - \Phi \boldsymbol{w}_r) = 0
+ \end{equation}$$
+
+ yielding,
+
+ $$\begin{equation} 
+     \boldsymbol{w} - \Phi \boldsymbol{w}_r \approx -\LRp{\dfrac{\partial \mathbf{R}}{\partial \boldsymbol{w}}(\phi \boldsymbol{w}_r)}^{-1}\mathbf{R}(\Phi \boldsymbol{w}_r)
+ \end{equation}$$
+ 
+ Substituting the above equation in the QoI error yields,
+
+ $$\begin{equation}
+     \mathbf{y}(\boldsymbol{w}) - \mathbf{y}(\Phi \boldsymbol{w}_r) \approx -\dfrac{\partial y}{\partial \boldsymbol{w}}(\Phi \boldsymbol{w}_r) \LRp{\dfrac{\partial \mathbf{R}}{\partial \boldsymbol{w}}(\phi \boldsymbol{w}_r)}^{-1}\mathbf{R}(\Phi \boldsymbol{w}_r)
+ \end{equation}$$
+
+ where $$\lambda \in \mathrm{R}^d$$ is the solution to the adjoint equation
+
+ $$\begin{equation}
+     \LRp{\dfrac{\partial \mathbf{R}}{\partial \boldsymbol{w}}(\phi \boldsymbol{w}_r)}^T \lambda = -\dfrac{\partial y}{\partial \boldsymbol{w}}(\Phi \boldsymbol{w}_r)^T
+ \end{equation}$$
+
+ In order to avoid solving the adjoint equation in the high dimensional space, we approximate $$\tilde{\lambda}$$ using a trial space with basis $$\tilde{\Phi}$$ such that $$\tilde{\lambda} \approx \tilde{\Phi} \tilde{\lambda}_r$$ and solve the following reduced linear adjoint equation:
+
+ $$\begin{equation}
+     \tilde{\Psi}^T \dfrac{\partial \mathbf{R}}{\partial \boldsymbol{w}}(\phi \boldsymbol{w}_r)^T \tilde{\Phi} \tilde{\lambda}_r = -\tilde{\Psi}^T \dfrac{\partial y}{\partial \boldsymbol{w}}(\Phi \boldsymbol{w}_r)^T
+ \end{equation}$$
+
+ Thus, the estimate of the error in the QoI becomes
+ $$\begin{equation}
+     \mathbf{y}(\boldsymbol{w}) - \mathbf{y}(\Phi \boldsymbol{w}_r) \approx \tilde{\lambda}^T \mathbf{R}(\Phi \boldsymbol{w}_r)
+ \end{equation}$$
+
+ yielding the a posteriori error bound
+ $$\begin{equation} 
+     |\mathbf{y}(\boldsymbol{w}) - \mathbf{y}(\Phi \boldsymbol{w}_r)| \le \sum_{i=1}^{d} |\tilde{\lambda}_i| |\mathbf{R}(\Phi \boldsymbol{w}_r)_i|
+ \end{equation}$$
+
+ The trial and test reduced spaces for the adjoint solution is chosen to be finer than the reduced order model space by solving the latter system with a truncated basis obtained from the former system.
+
+
 
 
