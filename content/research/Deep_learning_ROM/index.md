@@ -12,55 +12,29 @@ date: 2020-12-02
 
 ## Major Activities
 
-In the traditional inverse problem, the Tikhonov regularization method is often used, which penalizes equally all data modes. Recently, a few studies show that data-informed directions should be intact. Nevertheless, the important modes are determined using an eigendecomposition of the linear operator. There are two main drawbacks of such a method: (i) it only applies to a linear operator (limited to the linear problem), and (ii) it ignores observational data. In order to address these two issues we have developed an active subspace data-informed inversion approach. In particular, our method works for both linear and nonlinear operators. 
+### Deep Learning Enhanced Reduced Order Models
 
+Inverse problems are pervasive mathematical methods in inferring knowledge from observational and experimental data by leveraging simulations and models. Unlike direct inference methods, inverse problem approaches typically require many forward model solves usually governed by partial differential equations. This a crucial bottleneck in determining the feasibility of such methods. Reduced-Order Models accurately capture supposedly important physics of the forward model in the reduced subspaces in a computationally efficient manner, thereby accelerating the inverse problem solution at the cost of accuracy. We presented a data-driven technique to augment the accuracy of reduced order models by learning their error compared to high-fidelity models and experimental data with the goal of accelerating many-query problems in deterministic inverse problems. We presented preliminary results that support our approach in accelerating parameter-to-observable maps to solve inverse problems in steady heat conduction problems, neutron transport equations, and advection-diffusion equations. 
 
-## Significant Results
+Validation of the proposed method is performed using numerical experiments. The inverse problem for steady heat conduction is posed as inferring conductivity parameters from sparse observations on a thermal fin. The finite element solution using a coarse mesh was considered as the high fidelity model. An affine decomposition of the resulting stiffness matrix along with projection of the governing equations to a reduced space  was used to construct a reduced order model. The error was learned using a deep learning model in a data-driven fashion using simultaneous solves of the high fidelity model and the reduced model for training parameter values sampled from a Gaussian field. The relative error between the ground truth parameters and the parameters computed from solving inverse problems using the high fidelity model, the reduced order model, and the deep learning enhanced reduced order model is computed. The results show that the latter model shows comparable accuracy to the high fidelity model reconstructions while providing computational efficiency similar to that of the reduced order model.
 
+The following form of the PDE-constrained optimization procedure is usually employed to obtain an estimate for the parameters by minimizing the objective function $$ J(\boldsymbol{w}, \mathbf{\kappa}) : \mathbb{R}^N \times \mathbb{R}^{N_u} \rightarrow \mathbb{R} $$ by solving 
+\\( \newcommand{\LRp}[1]{\left( #1 \right)} \\)
 
-#### Linear inverse problem (X-Ray imaging)
+$$\begin{eqnarray}
+\underset{\mathbf{\kappa}}{\min} \quad & J(\boldsymbol{w}, \mathbf{\kappa}) := \dfrac{1}{2} ||\mathbf{y}^{\text{obs}} - \mathbf{F}(\boldsymbol{w}(\mathbf{\kappa}))||_{\Sigma}^2 + \gamma \mathcal{R}(\mathbf{\kappa}) \\
+\text{s. t.} \quad &  \mathbf{R}(\boldsymbol{w}, \mathbf{\kappa}) = 0
+\end{eqnarray}$$
 
-The orginal active subspace method is to detect the main data directions and then ignore the unimportant modes. Thus, we analyze both cases: (i)approximated misfit term (ii) full misfit term. 
+where $$\mathbf{y}^{\text{obs}}$$ represents the measured observations, $$\mathbf{F}$$ is the parameter-to-observation map, $$\kappa$$ is the parameter vector, $$\Sigma$$ is the measurement noise covariance, $$\mathcal{R}(\mathbf{\kappa})$$ is the regularization operator introduced to make the inverse problem well-posed, $$\gamma$$ is the coefficient of regularization, and $$\mathbb{R}$$ is the governing model.
 
-The former includes 
+The proposed DL-enhanced ROM quantity of interest reads
 
-##### ACT: the data misfit only considered acitve data modes.
+$$\begin{equation}
+    \mathbf{F}(\mathbf{\kappa}) = \tilde{\mathbf{y}}(\mathbf{\kappa}) = \mathbf{y}_r \LRp{\mathbf{\kappa}, \Phi} + \varepsilon_{\mathrm{NN}}(\mathbf{\kappa},\boldsymbol{\theta})
+\end{equation}$$
 
-##### ACT-M: the data misfit only considered acitve data modes and the active subspace matrix is substracted from the gradient mean.
-
-The latter consists of 
-
-##### ACT-Full: the data misfit considered all data modes.
-
-##### ACT-M-Full: the data misfit considered all data modes and the active subspace matrix is substracted from the gradient mean.
-
-The figure 1 shows the obatained results by all four methods with very large regularization parameter, as opposed to the Tikhonov method (which is overregularized). Firstly, with one-dimensional active subspace, ACT, ACT-Full, and ACT-M-Full methods give better reconstructions than Tik. Secondly, in optimal rank, all methods are robust in terms of regulariation parameter. In other words, we can avoid overregularize the informed data modes. Table 1. presents the relative error of the inverse image.
-
-![image](AS_X_ray_1.png)
-
-![image1](AS_X_ray_2.png)
-
-#### Nonlinear PDE-constrained inverse problem
-
-We now consider the poison 2D inverse problem in Hippylib package. 
-   
-$$ \min_{m} \mathcal{J} := \frac{1}{2} \int_{\Omega} (u - u_d)^2 \, dx + \frac{\gamma}{2} \int_{\Omega} | \nabla m|^2 \, dx, $$ 
-
-where $ u$ is the solution of the following PDE
-
-$$ -\nabla \cdot (\exp(m) \nabla u) = f \quad  \text{in} \quad  \Omega$$
-
-with boundary conditions
-
-$$ u = 0 \quad  \text{on} \quad  \partial \Omega $$
-
-<!---
-Without the active subspace, we must take time to tune properly the regularization parameter, for example, 1e-8 in this problem. Whereas, we can pick more freely from a wide range of parameter when the active subspace mmethod is adapted. The figure 2. shows that the active subspace method allows to get inverse solution with parameter 1e-6.
---->
-Fig 2 shows that our active subspace data-informed approach outperforms the traditional Tikhonov inversion method.
-
-![image2](AS_non_linear.png)
-
+where $$\Phi$$ is the reduced trial basis, and $$\theta$$ parametrizes a deep dense feed-forward neural network. 
 
 
 
