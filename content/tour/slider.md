@@ -66,7 +66,7 @@ content:
         position: left
         color: '#666'
         brightness: 0.7
-        media: Adaptation.png
+        media: Adaptation_3.png
 
       #link:
        # icon: graduation-cap
