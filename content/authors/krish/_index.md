@@ -65,4 +65,5 @@ user_groups:
   #- Visitors
 ---
 
-Krishnanunni is from a small city named Trivandrum from the southern part of India. His current research is broadly focused on developing new Machine Learning Algorithms for applications involving PDE’s. He also works in PDE constrained inverse problems. Prior to this, he had undertaken several research projects in the field of structural health monitoring, dynamics and signal processing through the course of his undergraduate and graduate study.
+Krishnanunni is from Kerala located in the southern part of India. His initial interests in mechanics and mathematics allowed him to undertaken several research projects in the field of computational Galerkin method, structural health monitoring, and data assimilation through the course of his undergraduate and graduate study.
+His current research is focused on developing efficient neural architecture adaptation algorithms. In addition, he also works in PDE constrained inverse problems. 
