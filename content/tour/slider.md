@@ -63,7 +63,7 @@ content:
       content: ''
       align: center
       background:
-        position: left
+        position: top
         color: '#666'
         brightness: 0.7
         media: Adaptation_3.png
