@@ -29,11 +29,11 @@ interests:
 education:
   courses:
   - course: M.S. Computational Science, Engineering, and Mathematics
-      institution: University of Texas at Austin
-	  year: 2021
+    institution: University of Texas at Austin
+	year: 2021
   - course: B.S. Aerospace Systems Engineering & Applied Mathematics
-      institution: University of Akron
-      year: 2019
+    institution: University of Akron
+    year: 2019
 
 
 # Social/Academic Networking
