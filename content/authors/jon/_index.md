@@ -30,7 +30,7 @@ education:
   courses:
   - course: M.S. Computational Science, Engineering, and Mathematics
     institution: University of Texas at Austin
-	year: 2021
+    year: 2021
   - course: B.S. Aerospace Systems Engineering & Applied Mathematics
     institution: University of Akron
     year: 2019
