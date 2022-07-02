@@ -61,4 +61,4 @@ user_groups:
   #- Visitors
 ---
 
-# Jonathan is a PhD student studying the interface of machine learning and scientific computation. Specifically, he is interested in leveraging the fast inference capabilities of neural networks to accelerate the solution of inverse problems and provide uncertainty quantification for the results. To accomplish this, he is interested in deriving and applying rigorous mathematical theory for machine learning algorithms that justifies their use in scientific computation and provides guarantees of their effectiveness. 
+- Jonathan is a PhD student studying the interface of machine learning and scientific computation. Specifically, he is interested in leveraging the fast inference capabilities of neural networks to accelerate the solution of inverse problems and provide uncertainty quantification for the results. To accomplish this, he is interested in deriving and applying rigorous mathematical theory for machine learning algorithms that justifies their use in scientific computation and provides guarantees of their effectiveness. 
