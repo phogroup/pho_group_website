@@ -36,6 +36,6 @@ Relative error of the parameter of interest **Cp** for two different compression
 size is 32 (left) and 64 (right). This is equivalent to a compression level of 128x and 64x, respectively. The top row shows the 
 predicted value of **Cp** and the bottom row shows the relative error. The average relative error is *0.2%* with 128x compression 
 and *0.1%* with 64x compression. In this example, there were 64 MPI ranks, leading to a total state size of 262,144. Using GPU, we get 
-a 40% speedup over recomputing the forward solution and 10% speedup when using CPU only. 
+a 40% speedup over recomputing the forward solution and 20% speedup when using CPU only. 
 
 ![acoustic-elastic state reconstruction](mangll.gif)
