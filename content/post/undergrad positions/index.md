@@ -9,5 +9,5 @@ date: 2022-21-06
 
 Interested Candidates:
 
-[Please contact Dr. Tan Bui-Thanh.](https://phoices.netlify.app/contact/)
+[Please contact Dr. Tan Bui-Thanh for more details.](https://phoices.netlify.app/contact/)
 
