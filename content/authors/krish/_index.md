@@ -65,5 +65,7 @@ user_groups:
   #- Visitors
 ---
 
-Krishnanunni is from Kerala located in the southern part of India. His initial interests in mechanics and mathematics allowed him to undertaken several research projects in the field of computational Galerkin method, structural health monitoring, and data assimilation through the course of his undergraduate and graduate study.
-His current research is focused on developing efficient neural architecture adaptation algorithms. In addition, he also works in PDE constrained inverse problems. 
+Krishnanunni is currently pursuing his PhD degree in Engineering Mechanics. His initial interests in mechanics and mathematics allowed him to undertaken several research projects in the field of computational Galerkin method, structural health monitoring, nonlinear estimation, and data assimilation through the course of his undergraduate and graduate study. 
+His current research lies at the intersection of scientific machine learning and inverse problems. Key projects of interest involves
+developing a general purpose neural architecture adaptation algorithm that provides answer to the choice of depth of a neural network.  He also conducts research on the analysis of ensemble Kalman filtering framework from data assimilation context as an efficient tool for solving inverse problems. 
+
