@@ -9,4 +9,4 @@ date: 2022-21-06
 
  
 
-[Please contact here for more details.](https://phoices.netlify.app/contact/)
+[Please contact by filling the form for more details.](https://phoices.netlify.app/contact/)
