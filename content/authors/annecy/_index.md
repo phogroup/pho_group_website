@@ -14,15 +14,14 @@ role: Research Administrator
 
 # Organizations/Affiliations
 organizations:
-  - name: UT Austin
+  - name: Oden Institute
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-  - Machine Learning
-  - Model constrained approaches
+#interests:
+
 
 
 education:
