@@ -1,19 +1,19 @@
 ---
 title: Dr. Tan Bui-Thanh will deliver an invited talk at the USACM Thematic Conference on Uncertainty Quantification for Machine Learning Integrated Physics Modeling (UQ-MLIP).
 
-event: [--------------]
+event: --------------
 event_url: https://sites.google.com/usacm.org/uq-mlip/home
 
 location: Crystal City, Arlington, Virginia
-#address:
- # street: ----------
-  #city: --------
-  #region: ----
-  #postcode: -------
-  #country: --------
+address:
+  street: ----------
+  city: --------
+  region: ----
+  postcode: -------
+  country: --------
 
-#summary: An example event.
-#abstract: 'To beupdated'
+summary: An example event.
+abstract: 'To beupdated'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
