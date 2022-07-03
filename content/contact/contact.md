@@ -10,12 +10,13 @@ headless: true
 weight: 10
 
 title: Contact
-subtitle: Annecy Liddell (Research Administrator)
+
 
 content:
   # Contact (edit or remove options as required)
   
-  email: aliddell@oden.utexas.edu
+  email: aliddell@oden.utexas.edu 
+  email: tanbui@oden.utexas.edu
   phone: 512 471 2154
   address: 
     street: University of Texas at Austin
