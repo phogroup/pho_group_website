@@ -1,10 +1,10 @@
 ---
-title: Example Event
+title: Tan will deliver an invited talk at the USACM Thematic Conference on Uncertainty Quantification for Machine Learning Integrated Physics Modeling (UQ-MLIP).
 
 event: --------------
-event_url: https://example.org
+event_url: https://sites.google.com/usacm.org/uq-mlip/home
 
-location: -----------
+location: Crystal City, Arlington, Virginia
 address:
   street: ----------
   city: --------
