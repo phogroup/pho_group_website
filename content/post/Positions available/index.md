@@ -11,4 +11,4 @@ Interested Candidates:
 
 [Please contact by filling the form for more details.](https://phoices.netlify.app/contact/)
 
-Please provide a short CV while contacting.
+Please provide a short CV and statement expressing your interest in the area while contacting.
