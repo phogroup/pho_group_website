@@ -7,6 +7,6 @@ date: 2022-21-06
 
 <!--more-->
 
-Please contact 
+ 
 
-[CS&E Homepage](https://www.siam.org/membership/activity-groups/detail/computational-science-and-engineering)
+[Please contact here for more details.](https://phoices.netlify.app/contact/)
