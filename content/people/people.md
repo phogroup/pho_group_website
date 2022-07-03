@@ -19,7 +19,7 @@ content:
     - Associate Professor
     - Postdoc
     - Current Graduate Students
-    - Administration
+    - Research Administrator
     - Visitors
     - Alumni
 design:
