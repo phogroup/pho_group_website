@@ -25,8 +25,8 @@ content:
     country: United States
     country_code: US
   coordinates:
-    latitude: '30.28698'
-    longitude: '-97.73526'
+    latitude: '30.28712'
+    longitude: '-97.73655'
   directions: Enter Peter O'Donnell building.
   office_hours:
     - 'Monday 10:00 to 13:00'
