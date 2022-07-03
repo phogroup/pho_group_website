@@ -52,4 +52,4 @@ user_groups:
   #- Visitors
 ---
 
-Annecy Liddell graduated from The University of Texas at Austin in 2009 with a BA in Linguistics and began working at the Oden Institute in 2019. Outside of research administration, Annecy likes playing piano, riding bikes with her family, cooking, feigning interest in the Dallas Cowboys, and spending all her money on plants that she then forgets to water.
+Annecy Liddell graduated from The University of Texas at Austin in 2009 with a BA in Linguistics and began working at the Oden Institute in 2019. 
