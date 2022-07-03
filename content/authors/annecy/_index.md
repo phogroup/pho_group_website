@@ -24,14 +24,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 
 
-education:
-  courses:
-    - course: BS in Civil Engineering
-      institution: Ho Chi Minh City University of Technology
-      year: 2012
-    - course: MEng in Civil Engineering
-      institution: Ho Chi Minh City University of Technology
-      year: 2009
+#education:
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
