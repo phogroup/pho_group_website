@@ -27,7 +27,7 @@ content:
   coordinates:
     latitude: '30.28712'
     longitude: '-97.73655'
-  directions: Enter Peter O'Donnell building, Room No: 3.118
+  directions: Enter Peter O'Donnell building, Room No 3.118.
   office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'
