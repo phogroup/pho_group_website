@@ -12,8 +12,8 @@ address:
   postcode: -------
   country: --------
 
-summary: An example event.
-abstract: 'To beupdated'
+summary: 
+abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: '[Website](https://sites.google.com/usacm.org/uq-mlip/home)'
   focal_point: Right
 
 url_code: ''
