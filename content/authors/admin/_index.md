@@ -75,4 +75,5 @@ There are two common thrusts in Tan Bui's research that motivate and drive each 
 
 Dr. Bui-Thanh joined the Department of Aerospace Engineering and Engineering Mechanics at the University of Texas at Austin in August 2013. His current research focus is on developing scalable methods for data-driven large-scale uncertainty quantification, statistical methods for managing big data in simulations and observations, and scientific Machine Learning.
 
-[Personal Website][https://users.oden.utexas.edu/~tanbui/]
+
+[Personal Website](https://users.oden.utexas.edu/~tanbui/)
