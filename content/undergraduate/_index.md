@@ -1,5 +1,5 @@
 ---
-title: Research Projects
+title: Undergraduate Research Projects
 
 # Listing view
 view: compact
