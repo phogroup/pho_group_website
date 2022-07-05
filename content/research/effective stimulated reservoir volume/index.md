@@ -1,6 +1,5 @@
 ---
-title: Development of a novel framework for the dynamic characterization, prediction, and management of
-effective stimulated reservoir volume (ESRV).
+title: On unifying randomized approaches in inverse problems
 date: 2020-12-01
 ---
 
@@ -9,8 +8,3 @@ date: 2020-12-01
 <!--more-->
 
 ## Major Activities
-
-
-
-## Significant results
-
