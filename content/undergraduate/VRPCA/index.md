@@ -1,5 +1,5 @@
 ---
-title: Title of Work
+title: Variance Reduction-Principal Component Analysis
 date: 2020-12-01
 ---
 
