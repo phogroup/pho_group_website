@@ -10,6 +10,6 @@ date: 2020-12-01
 ## Major Activities
 
 
-[Personal Website](https://phoices.netlify.app/research/graduate-research/unifying_randomized/)
+[Personal Website](https://phoices.netlify.app/research/graduate-research/Unifying_randomized/)
 
 
