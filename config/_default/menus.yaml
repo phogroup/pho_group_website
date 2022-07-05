@@ -16,7 +16,7 @@ main:
   - name: Undergraduate Projects
     url: undergraduate
     weight: 20
-  - name: PostDoc Projects
+  - name: Postdoc Projects
     url: postdoc
     weight: 20
   - name: People
