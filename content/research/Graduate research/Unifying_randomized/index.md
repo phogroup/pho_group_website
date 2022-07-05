@@ -1,6 +1,6 @@
 ---
 title: On unifying randomized approaches in inverse problems
-permalink: /Graduate research/Unifying_randomized/index
+permalink: /Unifying_randomized/index
 date: 2020-12-01
 ---
 
