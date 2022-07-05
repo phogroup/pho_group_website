@@ -1,5 +1,7 @@
 ---
+layout: page
 title: On unifying randomized approaches in inverse problems
+permalink: /Unifying_randomized/
 date: 2020-12-01
 ---
 
