@@ -60,16 +60,16 @@ isotropic Gaussian.
 To derive the UQ-VAE framework, instead of the Kullback-Liebler Divergence (KLD)
 we elect to use the following family of Jensen-Shannon divergences (JSD):
 
-![](/assets/figures/hwan/js_family.png)
+![](js_family.png)
 
 In doing so, we obtain the following loss functional:
 
-![](/assets/figures/hwan/loss_functional.png)
+![](loss_functional.png)
 
 which, when employing Monte-Carlo approximations of the expectations, yields
 the following optimization problem:
 
-![](/assets/figures/hwan/opt_problem.png)
+![](opt_problem.png)
 
 Thus, with only an adjustment of a single scalar value,
 our framework allows the selection of the notion of distance used by the
@@ -98,10 +98,10 @@ reflects the availability or lack of information. We have showed that
 our approach is 2750 times faster than the traditional approach while
 giving comparable, in some cases better, results.
 
-![](/assets/figures/hwan/ns0_m500.png)
-![](/assets/figures/hwan/ns0_m1000.png)
-![](/assets/figures/hwan/ns0_m5000.png)
-![](/assets/figures/hwan/ns1_m500.png)
-![](/assets/figures/hwan/ns1_m1000.png)
-![](/assets/figures/hwan/ns1_m5000.png)
+![](ns0_m500.png)
+![](ns0_m1000.png)
+![](ns0_m5000.png)
+![](ns1_m500.png)
+![](ns1_m1000.png)
+![](ns1_m5000.png)
 
