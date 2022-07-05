@@ -1,5 +1,5 @@
 ---
-title: Framework for dynamic characterization, prediction, and management of
+title: Framework for dynamic characterization of
 effective stimulated reservoir volume.
 date: 2020-12-01
 ---
