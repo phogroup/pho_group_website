@@ -22,6 +22,7 @@ content:
     - Research Administrator
     - Visitors
     - Alumni
+    - Undergraduate Researchers
 design:
   show_interests: false
   show_role: true
