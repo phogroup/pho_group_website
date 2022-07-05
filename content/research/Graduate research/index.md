@@ -10,6 +10,6 @@ date: 2020-12-01
 ## Major Activities
 
 
-[Personal Website](https://users.oden.utexas.edu/~tanbui/)
+[Personal Website](https://phoices.netlify.app/research/Graduate research/Unifying_randomized/)
 
 
