@@ -1,5 +1,5 @@
 ---
-title: Research Projects
+title: Graduate Research Projects
 
 # Listing view
 view: compact
