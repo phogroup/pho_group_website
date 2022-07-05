@@ -63,7 +63,7 @@ fracture growth is to the left side of the borehole, the entire fracture will be
 
 
 
-![Hybrid model consisting of fractal fracture network and field microseismic data. The calibrated 2D fractal fracture network is shown in blue, while the synthetic microseismic events (MSE) are shown in red.](MSE_2_TP.jpg)
+
 
 
 
@@ -75,7 +75,7 @@ is done sequentially with the starting position at the wellbore. The first rendi
 microseismic calibration is shown in Figure 2. The proposed fractal fracture calibration model is able to
 match all instances of the synthetic 3D microseismic events.
 
-![Hybrid model consisting of fractal fracture network and synthetic microseismic data. The calibrated 3D fractal fracture network is shown in green, while the synthetic microseismic events (MSE) are shown in red.](MSE_3_TP.jpg)
+
 
 <!-- Some beautiful pictures or videos could go here -->
 <!-- [![acoustic-elastic wave equation video](/assets/figures/jon/mangll_animation_frame.png)](/assets/figures/jon/mangll_animation_trimmed.ogv "Mangll video") -->
@@ -90,7 +90,7 @@ the filter was to assess the amount of information that can obtained by microsei
 the data is highly certain. After filtering by SNR, the microseismic data were sectioned by 20-minutes time
 slices, with 8 total slices. The 3D microseismic events time-slices are shown in Figure 3.
 
-![3D field microseismic time-slices with SNR greater than 2 from the Laredo Sugg 171-A Pad GTI HFTS Project for stage 1 in well 7SU.](MSE_time_TP.jpg)
+
 
 Observation of the time-slices show that calibration of 3D microseismic data must require the inclusion of
 the time dimension. There are no blooming patterns observed starting from the wellbore, as the events can
