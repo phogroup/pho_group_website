@@ -1,6 +1,5 @@
 ---
-title: Framework for dynamic characterization of
-(ESRV).
+title: Framework for dynamic characterization 
 date: 2020-12-01
 ---
 
