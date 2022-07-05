@@ -72,7 +72,7 @@ content:
       content: ''
       align: center
       background:
-        position: top
+        position: bottom
         color: '#666'
         brightness: 0.7
         media: dense_32_64_surface.png
