@@ -72,4 +72,32 @@ calibrated by field microseismic events data. Additionally, the left and the rig
 two distinct fracture network spatial distributions. The left side of the borehole showed a more dispersed
 fracture network, while the right side is condensed in x-direction.
 
-![Hybrid model consisting of fractal fracture network and field microseismic data. The calibrated 2D fractal fracture network is shown in blue, while the synthetic microseismic events (MSE) are shown in red.](MSE_2_TP.jpg)
+![image](MSE_2_TP.jpg)
+
+Since 3D microseismic data is reduced to 2D microseismic data in Figure 1, the dimension of the generated
+fracture network is physically constrained to the x and y plane. In order to represent all spatial dimensions, a
+3D fractal fracture calibration model is introduced to match the 3D microseismic data. The matching process
+is done sequentially with the starting position at the wellbore. The first rendition of an integrated 3D
+microseismic calibration is shown in Figure 2. The proposed fractal fracture calibration model is able to
+match all instances of the synthetic 3D microseismic events.
+
+
+![image](MSE_3_TP.jpg)
+
+Using the same set of data from the Laredo Sugg 171-A Pad GTI HFTS Project completed by Halliburton in
+2015, a time-step data analysis of the 3D microseismic data was performed. To ensure high quality
+microseismic data were utilized, a signal-to-noise ratio (SNR) of 2 was used to filter the events. Additionally,
+only the first stage of hydraulic fracturing was used to ensure zero stage or well interference. The purpose of
+the filter was to assess the amount of information that can obtained by microseismic monitoring, given that
+the data is highly certain. After filtering by SNR, the microseismic data were sectioned by 20-minutes time
+slices, with 8 total slices. The 3D microseismic events time-slices are shown in Figure 3.
+
+![image](MSE_time_TP.jpg)
+
+Observation of the time-slices show that calibration of 3D microseismic data must require the inclusion of
+the time dimension. There are no blooming patterns observed starting from the wellbore, as the events can
+occur far away from the wellbore in early times and closer to the wellbore at later times. This indicates that
+the complexity of the fracture network increases with time, while the extent of the fracture network does not.
+Additionally, current events occur within region of past events, which indicates that one induced natural
+fracture may cause another nearby to be activated, rather than the hydraulic fracture activating all of the
+natural fracture in its proximity.
