@@ -68,6 +68,14 @@ content:
         brightness: 0.7
         media: Adaptation_3.png
 
+    - title: 
+      content: ''
+      align: center
+      background:
+        position: top
+        color: '#666'
+        brightness: 0.7
+        media: dense_32_64_surface.png
       #link:
        # icon: graduation-cap
         #icon_pack: fas
