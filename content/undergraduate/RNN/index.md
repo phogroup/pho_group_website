@@ -24,4 +24,4 @@ Camille Renaud & Tan Bui-Thanh
 
 ## Report
 
-[Recurrent Neural Networks for Predicting ODE Dynamics](/assets/figures/under_graduate_figures/Camille.pdf)
+[Recurrent Neural Networks for Predicting ODE Dynamics](Camille.pdf)
