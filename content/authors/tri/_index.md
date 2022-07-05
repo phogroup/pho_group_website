@@ -21,10 +21,10 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Scientific Machine Learning
-  - Inverse Problem
-  - Data assimilation
-  - Numerical Optimization
+  - Fractured reservoir dynamics
+  - Geomechanical modeling and data inversion
+  - Carbon capture, utilization, and sequestration (CCUS)
+
 
 education:
   courses:
