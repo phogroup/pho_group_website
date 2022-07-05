@@ -17,8 +17,8 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
     - Associate Professor
-    - Current Graduate Students
     - Postdoc Researchers
+    - Current Graduate Students
     - Undergraduate Researchers
     - Research Administrator
     - Visitors
