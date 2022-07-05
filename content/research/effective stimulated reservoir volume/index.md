@@ -1,6 +1,6 @@
 ---
 title: Framework for dynamic characterization of
-effective stimulated reservoir volume.
+(ESRV).
 date: 2020-12-01
 ---
 
