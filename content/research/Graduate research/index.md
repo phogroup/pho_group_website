@@ -10,6 +10,6 @@ date: 2020-12-01
 ## Major Activities
 
 
-![Personal Website](Unifying_randomized/index.md)
+[Personal Website](/Unifying_randomized)
 
 
