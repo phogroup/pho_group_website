@@ -52,3 +52,24 @@ By employing this library, any combinations of model and data can be selected to
 properties for a given application. For example, a combination of a fractal fracture network, microseismic,
 and micro-deformation data can be used to evaluate the spatial distribution and connectivity of the fracture
 network in unconventional hydrocarbon reservoirs.
+
+## Significant Results
+
+2D field microseismic data calibration:
+
+In March 2022, a set of field microseismic data was used to calibrate the generation of fractals to obtain
+information about the fracture network. The publicly available field data was selected from the Laredo Sugg
+171-A Pad GTI HFTS Project completed by Halliburton in 2015. The hydraulic fracturing test site (HFTS)
+project aimed to investigate fracture network interactions within several multi-well completion schemes. One
+of the primary data sources utilized was microseismic events obtained through microseismic monitoring
+arrays. To simplify the initial model, the 3D microseismic data were reduced to 2D microseismic data, which
+only preserves the x and y coordinates of the focus. The microseismic events were split from the lateral
+coordinate of the well x = -1500 ft from right to left. The fracture is assumed to propagate perpendicular to
+direction of minimum stress, and cannot traverse to the opposite side. For example, if the direction of fractal
+fracture growth is to the left side of the borehole, the entire fracture will be restricted to the left side. The
+microseismic data calibrated fractal fracture network shown in Figure 1. The fractal fracture was able to be
+calibrated by field microseismic events data. Additionally, the left and the right side of the borehole showed
+two distinct fracture network spatial distributions. The left side of the borehole showed a more dispersed
+fracture network, while the right side is condensed in x-direction.
+
+![Hybrid model consisting of fractal fracture network and field microseismic data. The calibrated 2D fractal fracture network is shown in blue, while the synthetic microseismic events (MSE) are shown in red.](MSE_2_TP.jpg)
