@@ -24,7 +24,7 @@ interests:
   - High Performance Scientific Computing 
   - Numerical Analysis
   - Particle-in-cell schemes
-  - 
+
 
 education:
   courses:
