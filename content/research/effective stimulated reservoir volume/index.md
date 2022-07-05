@@ -1,6 +1,5 @@
 ---
-title: Novel framework for the dynamic characterization, prediction, and management of
-effective stimulated reservoir volume.
+title: Novel framework
 date: 2020-12-01
 ---
 
