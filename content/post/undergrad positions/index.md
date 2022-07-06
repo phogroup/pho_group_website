@@ -3,7 +3,7 @@ title: Two paid undergraduate research positions are available in the group.
 date: 2022-21-06
 ---
 
-
+![](position.png)
 
 <!--more-->
 
