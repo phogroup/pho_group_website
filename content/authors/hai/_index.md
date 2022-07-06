@@ -18,21 +18,23 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Machine Learning, Inverse problems, Uncertainty qualifications, Numerical analysis.
 
 interests:
   - Machine Learning
-  - Model constrained approaches
+  - Model constrained deep learning approach
+  - Inverse Problems
+  - Numerical methods for dynamical systems, ODEs, PDEs, etc.
 
 
 education:
   courses:
-    - course: BS in Civil Engineering
+    - course: B.Eng in Civil Engineering
       institution: Ho Chi Minh City University of Technology
-      year: 2012
-    - course: MEng in Civil Engineering
+      year: 2015
+    - course: M.Eng in Civil Engineering
       institution: Ho Chi Minh City University of Technology
-      year: 2009
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -59,3 +61,6 @@ user_groups:
   #- Visitors
 ---
 
+Hai Nguyen obtained his Bachelor's and Master's degree in Civil Engineering from the Ho Chi Minh City University of Technology, after which he worked as a graduate research assistant and teaching assistant at the same university. He is pursuing his Ph.D. in Aerospace Engineering at the University of Texas at Austin.
+
+His current interests are in the broad areas of numerical analysis, scientific computing, and machine learning. He has developed the model-constrained deep learning approach for solving both challenging forward and inverse problems. He also has been working on solving time-dependent PDEs problems, i.e., Wave equation, Burger's equation, Navier-Stokes equation, using transformers architecture. He proposed a data-informed active subspace framework for solving inverse problems.
