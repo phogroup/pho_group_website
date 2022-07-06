@@ -22,9 +22,9 @@ bio: My research interests include Machine Learning, Inverse problems, Uncertain
 
 interests:
   - Machine Learning
-  - Model constrained approaches
+  - Model constrained deep learning approach
   - Inverse Problems
-  - Numerical methods for PDEs
+  - Numerical methods for dynamical systems, ODEs, PDEs, etc.
 
 
 education:
@@ -61,4 +61,6 @@ user_groups:
   #- Visitors
 ---
 
-Hai Nguyen is a second year PhD student in Aerospace Engineering after working as graduate research assistant and teaching assistant in Ho Chi Minh city of technology. He obtained the B.Eng and M.Eng in Civil Engineering in the same university. His current research interest is developing the model-constrained deep learning approaches for solving both challenging forward and inverse problems. He proposed a data-informed active subspace framework for solving inverse problems. He also has been working on solving time-dependent PDEs problems, i.e., Wave equation, Burger's equation, Navier-Stokes equation, using transformers architecture.
+Hai Nguyen obtained his Bachelor's and Master's degree in Civil Engineering from the Ho Chi Minh City University of Technology, after which he worked as a graduate research assistant and teaching assistant at the same university. He is pursuing his Ph.D. in Aerospace Engineering at the University of Texas at Austin.
+
+His current interests are in the broad areas of numerical analysis, scientific computing, and machine learning. He has developed the model-constrained deep learning approach for solving both challenging forward and inverse problems. He also has been working on solving time-dependent PDEs problems, i.e., Wave equation, Burger's equation, Navier-Stokes equation, using transformers architecture. He proposed a data-informed active subspace framework for solving inverse problems.
