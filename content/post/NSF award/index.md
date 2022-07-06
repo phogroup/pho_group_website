@@ -3,7 +3,7 @@ title: We have just won $600K from the National Science Foundation (NSF) for con
 date: 2022-21-06
 ---
 
-
+![image](NSF.jpg)
 
 <!--more-->
 
