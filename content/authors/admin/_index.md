@@ -69,11 +69,8 @@ user_groups:
   - Associate Professor
 ---
 
-Since joining the Institute for Computational Engineering and Sciences in June 2008 as postdoctoral fellow, and then research associate, and then research scientist, Dr. Bui-Thanh has been conducting interdisciplinary research across different areas of computational science and applied mathematics. In particular, he has made important contributions to computational electromagnetics, computational geosciences, parallel computing, large scale partial-differential-equation-constrained optimization, computational inverse problems, uncertainty quantication, and numerical analysis.
+Tan Bui-Thanh is an associate professor, and the endowed William J Murray Jr. Fellow in Engineering No. 4,  of the Oden Institute for Computational Engineering & Sciences, and the Department of Aerospace Engineering & Engineering mechanics at the university of Texas at Austin. Bui-Thanh obtained his PhD from the Massachusetts Institute of Technology in 2007, Master of Sciences from the Singapore MIT-Alliance in 2003, and Bachelor of Engineering from the Ho Chi Minh City University of Technology (DHBK) in 2001. He has decades of experience and expertise on multidisciplinary research across the boundaries of different branches of computational science, engineering, and mathematics. Bui-Thanh is a former elected vice president of the SIAM Texas-Louisiana Section, and currently the elected secretary of the SIAM SIAG/CSE. Bui-Thanh was an NSF early CAREER recipient, the Oden Institute distinguished research award, and a two-time winner of the Moncrief Faculty Challenging award.
 
-There are two common thrusts in Tan Bui's research that motivate and drive each other. The first one is to devise (large-scale) scalable, efficient, and rigorous numerical algorithms to simulate difficult problems in engineering and sciences. The second one, which is the ultimate goal, is to develop scalable methodologies for computer predictions with quantifiable uncertainty.
-
-Dr. Bui-Thanh joined the Department of Aerospace Engineering and Engineering Mechanics at the University of Texas at Austin in August 2013. His current research focus is on developing scalable methods for data-driven large-scale uncertainty quantification, statistical methods for managing big data in simulations and observations, and scientific Machine Learning.
 
 
 [Personal Website](https://users.oden.utexas.edu/~tanbui/)
