@@ -1,10 +1,10 @@
 ---
 # Display name
-title: ---------
+title: John C Breedis
 
 # Username (this should match the folder name)
 authors:
-  - sample_undergrad
+  - john
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,15 +21,20 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Inverse Problems
+  - Machine Learning
+  - Partial differential equations
   - Optimization
 
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: Machine Learning Certificate
+      institution: eCornell
+      year: 2020
+    - course: Certificate of Achievement in Artificial Intelligence Principles and Techniques
+      institution: Stanford Center for Professional Development
+      year: 2021
+      
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -38,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:brad_marvin@utexas.edu'
+    link: 'mailto:jbreedis@utexas.edu'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -56,4 +61,8 @@ user_groups:
   #- Visitors
 ---
 
-Add your details here
+John grew up in Wellesley Massachusetts, which is located west of Boston. He is
+pursuing a bachelor of science in mathematics at the University of Texas at Austin, as well as a
+certificate in Computational Science and Engineering. His areas of interest include machine
+learning, numerical analysis, as well as partial differential equations. He enjoys playing ultimate
+frisbee, golf, skiing, as well as board games and card games in his free time.
