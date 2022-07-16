@@ -66,4 +66,4 @@ user_groups:
   #- Visitors
 ---
 
- 
+Kainan Wang did his postdoc with Dr. Tan Bui-Thanh from June 2014--September 2014.
