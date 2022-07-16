@@ -30,6 +30,9 @@ education:
   courses:
     - course: B.S. Civil Engineering
       institution: Anhui University of Science and Technology
+      year: 2015
+    - course: M.S. Structural Engineering
+      institution: Beijing University of Technology
       year: 2019
 
 
