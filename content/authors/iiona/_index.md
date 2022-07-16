@@ -65,4 +65,4 @@ user_groups:
   #- Visitors
 ---
 
-Ilona Ambartsymyan  did his postdoc with Dr. Tan Bui-Thanh from  May 2018—Fall 2019.
+Ilona Ambartsymyan  did her postdoc with Dr. Tan Bui-Thanh from  May 2018—Fall 2019.
