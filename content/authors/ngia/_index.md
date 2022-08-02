@@ -14,7 +14,7 @@ role: Undergraduate researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: UT Austin
+  - name:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
