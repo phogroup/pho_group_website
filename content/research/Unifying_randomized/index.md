@@ -3,18 +3,21 @@ title: On unifying randomized approaches in inverse problems
 date: 2020-12-01
 ---
 
-
-
 <!--more-->
 
 ## Major Activities
 #### Randomized Inverse Problems
 We have developed a unified framework under which we can study and understand
-randomized approaches to solving inverse problems. We show that this 
-various randomized approach to solving inverse problems can be viewed
+randomized approaches to solving inverse and other optimization problems. 
+We show that 
+various randomized approaches to solving inverse problems can be viewed
 as special cases of this more general framework. In particular, we prove
-asymptotic convergence results for a broad class of randomizations using 
-stochastic optimization theory. Our unified framework not only recovers many existing methods (including gradient descent, coordinate descent, Karzmarz method, etc) but also discovers new ones.
+asymptotic and non-asymptotic convergence results
+for a broad class of randomizations using 
+stochastic optimization theory. 
+<!---Our unified framework not only recovers many existing methods 
+(including gradient descent, coordinate descent, Karzmarz method, etc) but also discovers new ones.
+--->
 
 <!---
 #### Ensemble Kalman Filter (EnKF) through the lens of duality
@@ -27,7 +30,7 @@ of duality. In particular, we show that by dealing with a randomized Lagrangian 
 ## Significant Results
 
 
-#### Randomized Inverse Problems
+<!-- #### Randomized Inverse Problems  -->
 We analyze numerically the advantages of sketching the forward map 
 from the left compared to sketching from the right and compare results.
 For the Shaw problem (*P.C. Hansen, Regularization tools version 4.0*), 
