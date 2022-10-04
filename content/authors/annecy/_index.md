@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Annecy Liddell
+title: Karissa Vail
 
 # Username (this should match the folder name)
 authors:
@@ -34,7 +34,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:aliddell@oden.utexas.edu'
+    link: 'mailto:Karissa.vail@oden.utexas.edu'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -52,4 +52,4 @@ user_groups:
   #- Visitors
 ---
 
-Annecy Liddell graduated from The University of Texas at Austin in 2009 with a BA in Linguistics and began working at the Oden Institute in 2019. 
+Karissa graduated from The University of Texas at Austin with a B.A. in Russian and Eastern European Studies and English in 2018. She subsequently began working as an administrator in offices across the University of Texas at Austin, including the Dean's Office at the LBJ School of Public Affairs and most recently, the College of Education's Research Administration Office, where she developed a strong interest in research administration. She has recently joined the Oden Institute in 2022. In her free time, Karissa enjoys reading, attending concerts, biking, doing hot yoga, and spending time with her two cats at home.
