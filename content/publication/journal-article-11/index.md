@@ -27,7 +27,7 @@ publication_types: ['1']
 publication: ''
 #publication_short: ''
 
-abstract: The emergence and re-emergence of infectious diseases has been a global cause of concern in the past few decades. 
+abstract: 
 	
 
 # Summary. An optional shortened abstract.
