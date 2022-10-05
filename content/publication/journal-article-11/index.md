@@ -23,7 +23,7 @@ publication_types: ['1']
 publication: ''
 #publication_short: ''
 
-abstract: The emergence and re-emergence of infectious diseases has been a global cause of concern in the past few decades. Previous research in the field has revealed that human connectivity and mobility behaviour play a major role in the spreading of an infectious disease. 
+abstract: The emergence and re-emergence of infectious diseases has been a global cause of concern in the past few decades. 
 	
 
 # Summary. An optional shortened abstract.
