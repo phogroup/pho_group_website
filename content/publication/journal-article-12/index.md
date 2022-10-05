@@ -1,7 +1,7 @@
 ---
 title: 'A multilevel approach for trace system in HDG discretizations'
 authors:
-  - Sriramkrishnan M.
+  - Sriramkrishnan M
   - Bui-Thanh T
 
 #author_notes:
