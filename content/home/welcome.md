@@ -31,3 +31,7 @@ design:
  2. Developing scalable solvers for future supercomputing systems to simulate complex physical problems.
 
  3. Developing advanced statistical and mathematical  algorithms for large-scale inverse problems and uncertainty quantification problems.
+   
+ 4. Developing advanced scientific machine learning methods for real time online calibration and uncertainty quantification for digital twins.
+   
+ 5. Developing advanced scientific machine learning methods for robust and reliable deployment for Digital Twins.
