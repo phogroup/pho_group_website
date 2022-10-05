@@ -23,8 +23,7 @@ publication_types: ['1']
 publication: ''
 #publication_short: ''
 
-abstract: The emergence and re-emergence of infectious diseases has been a global cause of concern in the past few decades. Previous research in the field has revealed that human connectivity and mobility behaviour play a major role in the spreading of an infectious disease. In this work, we propose multi-patch  models that take into account the effects of human mobility on the evolution of disease dynamics in a multi-population environment. In particular, we develop SEIRS multi-patch and multi-group epidemic models, to practically account for distinct epidemiological-status-dependent mobilities in each patch.
-	
+abstract: The emergence and re-emergence of infectious diseases has been a global cause of concern in the past few decades. 
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
