@@ -24,6 +24,7 @@ publication: ''
 #publication_short: ''
 
 abstract: Real time accurate solutions of large scale complex dynamical systems are in critical need for control, optimization, uncertainty quantification, and decision-making in practical engineering and science applications. This paper contributes in this direction a model constrained tangent manifold learning (mcTangent) approach. At the heart of mcTangent is the synergy of several desirable strategies i) a tangent manifold learning to take advantage of the neural network speed and the time accurate nature of the method of lines; ii) a model constrained approach to encode the neural network tangent with the underlying governing equations; iii) sequential learning strategies to promote long time stability and accuracy; and iv) data randomization approach to implicitly enforce the smoothness of the neural network tangent and its likeliness to the truth tangent up second order derivatives in order to further enhance the stability and accuracy of mcTangent solutions. Both semi heuristic and rigorous arguments are provided to analyze and justify the proposed approach. Several numerical results for transport equation, viscous Burgers equation, and Navier Stokes equation are presented to study and demonstrate the capability of the proposed mcTangent learning approach.
+
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
