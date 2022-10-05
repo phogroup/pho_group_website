@@ -1,12 +1,9 @@
 ---
 title: 'Multi-patch epidemic models with partial mobility, residency, and demography'
 authors:
-  - Albert O Akuno
-  - L Leticia Ramirez-Ramirez
-  - Chahak Mehta
-  - C G Krishnanuni
+  - Krishnanuni
   - Bui-Thanh T
-  - Jose A Montoya
+  
 
 #author_notes:
  # - 'Equal contribution'
