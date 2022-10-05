@@ -3,7 +3,6 @@ title: 'Multi-patch epidemic models with partial mobility, residency, and demogr
 authors:
   - Krishnanuni
   - Bui-Thanh T
-  
 
 #author_notes:
  # - 'Equal contribution'
@@ -24,7 +23,7 @@ publication_types: ['1']
 publication: ''
 #publication_short: ''
 
-abstract: 
+abstract: The emergence and re-emergence of infectious diseases has been a global cause of concern in the past few decades. 
 	
 
 # Summary. An optional shortened abstract.
