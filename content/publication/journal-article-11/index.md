@@ -23,7 +23,13 @@ publication_types: ['1']
 publication: ''
 #publication_short: ''
 
-abstract: 
+abstract: The emergence and re-emergence of infectious diseases has been a
+global cause of concern in the past few decades. Previous research in
+the field has revealed that human connectivity and mobility behaviour
+play a major role in the spreading of an infectious disease. In this
+work, we propose multi-patch models that take into account the effects of human mobility on the evolution of disease dynamics in a multipopulation environment. In particular, we develop SEIRS multi-patch
+and multi-group epidemic models, to practically account for distinct epidemiological-status-dependent mobilities in each patch. We rigorously show that the disease free equilibria (DFE) for both models are stable under certain conditions on the reproduction number. We also prove that the models have a unique endemic asymptotically stable equilibrium when reproduction number is greater than one. We also introduce new local reproduction numbers from the point of view of the sub populations, and establish some important relation between them and the global reproduction number. Various numerical simulations are conducted to study the
+effects of mobility and the residence time matrix on the evolution of the disease in individual patches and the overall environment.
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
