@@ -1,21 +1,19 @@
 ---
-title: 'Multi-patch epidemic models with partial mobility, residency, and demography'
+title: 'On unifying randomized methods for inverse problems'
 authors:
-  - Albert O Akuno
-  - L Leticia Ramirez-Ramirez
-  - Chahak Mehta
+  - Wittmer J
   - CG Krishnanunni
+  - Nguyen H
   - Bui-Thanh T
-  - Jose A Montoya
 
 #author_notes:
  # - 'Equal contribution'
  # - 'Equal contribution'
-date: '2022-08-12'
+date: '2023-08-09'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-08-12'
+publishDate: '2023-08-09'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,10 +22,10 @@ publishDate: '2022-08-12'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: ' Chaos, Solitons & Fractals Volume 173, August 113690, 2023'
+publication: ' Inverse Problems, Volume 39, Number 7, 2023.'
 #publication_short: ''
 
-abstract: 	The emergence and re-emergence of infectious diseases has been a global cause of concern in the past few decades. Previous research in the field has revealed that human connectivity and mobility behaviour play a major role in the spreading of an infectious disease. In this work, we propose multi-patch  models that take into account the effects of human mobility on the evolution of disease dynamics in a multi-population environment. In particular, we develop SEIRS multi-patch and multi-group epidemic models to practically account for distinct epidemiological-status-dependent mobilities in each patch.
+abstract: This work unifies the analysis of various randomized methods for solving linear and nonlinear inverse problems with Gaussian priors by framing the problem in a stochastic optimization setting. By doing so, we show that many randomized methods are variants of a sample average approximation (SAA). More importantly, we are able to prove a single theoretical result that guarantees the asymptotic convergence for a variety of randomized methods. Additionally, viewing randomized methods as an SAA enables us to prove, for the first time, a single non-asymptotic error result that holds for randomized methods under consideration. Another important consequence of our unified framework is that it allows us to discover new randomization methods. We present various numerical results for linear, nonlinear, algebraic, and PDE-constrained inverse problems that verify the theoretical convergence results and provide a discussion on the apparently different convergence rates and the behavior for various randomized methods.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -39,7 +37,7 @@ abstract: 	The emergence and re-emergence of infectious diseases has been a glob
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S096007792300591X?dgcid=coauthor
+url_pdf: https://iopscience.iop.org/article/10.1088/1361-6420/acd36e
 url_code: ''
 url_dataset: ''
 url_poster: ''
