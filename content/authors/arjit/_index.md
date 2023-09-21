@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Qiong Tang
+title: Arjit Seth
 
 # Username (this should match the folder name)
 authors:
-  - qiong
+  - arjit
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Masters Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,22 +18,23 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: 
 
 interests:
-  - Machine Learning
-  - Finite Element Methods
-  - Partial Differential Equations 
-
+  - Optimization
+  - Digital twins
+  - Deep learning
+  - Aircraft design
+  - Aerodynamics
 
 education:
   courses:
-    - course: B.S. Civil Engineering
-      institution: Anhui University of Science and Technology
-      year: 2015
-    - course: M.S. Structural Engineering
-      institution: Beijing University of Technology
-      year: 2019
+  - course: M.Phil. Mechanical Engineering
+    institution: Hong Kong University of Science and Technology
+    year: 2020
+  - course: B.Tech. Aerospace Engineering
+    institution: Manipal Institute of Technology
+    year: 2018
 
 
 # Social/Academic Networking
@@ -43,7 +44,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:qiongtang@utexas.edu'
+    link: 'mailto:ajseth@utexas.edu'
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -56,8 +58,8 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Current Graduate Students
   #- Visitors
 ---
 
-Qiong grew up in a beautiful place called Anqing, which is located in southeast China. She’s now a master student in Engineering Mechanics at UT Austin. Before attending UT, she received her M.S. in Structural Engineering from Beijing university of Technology and B.S. in Civil Engineering from Anhui University of Science and Technology. Her current research focuses on solving PDEs by data driven methods such as Machine Learning Algorithms. She likes hiking and reading in her leisure time.
+- My research focuses on developing methodologies for enabling digital twin models via scientific deep learning techniques.

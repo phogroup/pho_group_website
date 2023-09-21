@@ -63,4 +63,4 @@ user_groups:
   #- Visitors
 ---
 
-S Muralikrishnan completed his PhD degree from the department of Aerospace Engineering in 2019. During this time he worked at the Pho-Ices group on Fast and scalable solvers for high-order hybridized discontinuous Galerkin methods with applications to fluid dynamics and magnetohydrodynamics.
+S Muralikrishnan completed his PhD degree from the department of Aerospace Engineering in 2019. During this time he worked at the PHO-ICES group on Fast and scalable solvers for high-order hybridized discontinuous Galerkin methods with applications to fluid dynamics and magnetohydrodynamics.
