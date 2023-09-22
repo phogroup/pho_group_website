@@ -18,8 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-# bio: 
-Tri grew up in Illinois and attended the University of Illinois-Urbana Champaign, where he studied mathematics and computer science. He started the CSEM PhD program in Fall 2023. 
+bio: Tri grew up in Illinois and attended the University of Illinois-Urbana Champaign, where he studied mathematics and computer science. He started the CSEM PhD program in Fall 2023. 
 
 interests:
   - Applied Mathematics
