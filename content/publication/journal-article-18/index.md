@@ -1,13 +1,16 @@
 ---
-title: 'A Unified and Constructive Framework for the Universality of Neural Networks'
+title: 'Unified hp-HDG Frameworks for Friedrichs PDE systems'
 authors:
+  - Chen, Jau-Uei 
+  - Kang, Shinhoo
   - Bui-Thanh T
+  - Shadid, J. N.
   
 
 #author_notes:
  # - 'Equal contribution'
  # - 'Equal contribution'
-date: '2023-05-07'
+date: '2023-04-07'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -17,13 +20,13 @@ publishDate: '2023-09-23'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: ' In production, 2023'
+publication: 'Under review, 2023'
 #publication_short: ''
 
-abstract: "One of the reasons why many neural networks are capable of replicating complicated tasks or functions is their universal property. Though the past few decades have seen tremendous advances in theories of neural networks, a single constructive framework for neural network universality remains unavailable. This paper is the first effort to provide a unified and constructive framework for the universality of a large class of activation functions including most of existing ones. At the heart of the framework is the concept of neural network approximate identity (nAI). The main result is: any nAI activation function is universal. It turns out that most of existing activation functions are nAI, and thus universal in the space of continuous functions on compacta. The framework induces several advantages over the contemporary counterparts. First, it is constructive with elementary means from functional analysis, probability theory, and numerical analysis. Second, it is the first unified attempt that is valid for most of existing activation functions. Third, as a by product, the framework provides the first universality proof for some of the existing activation functions including Mish, SiLU, ELU, GELU, and etc. Fourth, it provides new proofs for most activation functions. Fifth, it discovers new activation functions with guaranteed universality property. Sixth, for a given activation and error tolerance, the framework provides precisely the architecture of the corresponding one-hidden neural network with predetermined number of neurons, and the values of weights/biases. Seventh, the framework allows us to abstractly present the first universal approximation with favorable non-asymptotic rate."
+abstract: 'This work proposes a unified hp-adaptivity framework for hybridized discontinuous Galerkin (HDG) method for a large class of partial differential equations (PDEs) of Friedrichs type. In particular, we present unified hp-HDG formulations for abstract one-field and two-field structures and prove their well-posedness. In order to handle non-conforming interfaces we simply take advantage of HDG built-in mortar structures. With split-type mortars and the approximation space of trace, a numerical flux can be derived via Godunov approach and be naturally employed without any additional treatment. As a consequence, the proposed formulations are parameter-free. We perform several numerical experiments for time-independent and linear PDEs including elliptic, hyperbolic, and mixed-type to verify the proposed unified hp-formulations and demonstrate the effectiveness of hp-adaptation. Two adaptivity criteria are considered: one is based on a simple and fast error indicator, while the other is rigorous but more expensive using an adjoint-based error estimate. The numerical results show that these two approaches are comparable in terms of convergence rate even for problems with strong gradients, discontinuities, or singularities.'
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -35,7 +38,7 @@ abstract: "One of the reasons why many neural networks are capable of replicatin
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/abs/2112.14877
+url_pdf: https://arxiv.org/abs/2304.03690 
 url_code: ''
 url_dataset: ''
 url_poster: ''
