@@ -1,5 +1,5 @@
 ---
-title: 'Unified hp-HDG Frameworks for Friedrichs' PDE systems'
+title: 'Unified hp-HDG Frameworks for Friedrichs PDE systems'
 authors:
   - Chen, Jau-Uei 
   - Kang, Shinhoo
