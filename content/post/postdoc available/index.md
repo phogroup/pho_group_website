@@ -1,5 +1,5 @@
 ---
-title: Congratulations to Dr. Jonathan Wittmer for successfully defending his PhD in May 2023!!
+title: Congratulations to Dr. Jonathan Wittmer for successfully defending his PhD in May 2023!
 date: 2023-21-06
 ---
 
