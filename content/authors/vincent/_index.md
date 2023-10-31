@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Hieu Nguyen
+title: Vincent Cheng
 
 # Username (this should match the folder name)
 authors:
-  - hieu
+  - vincent
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergraduate researcher
+role: 
 
 # Organizations/Affiliations
 organizations:
@@ -18,19 +18,18 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a third year mathematics student at the University of Texas at Austin. I have interests in deep learning, statistical inference, and optimization methods. 
 
-# interests:
-#   - Fractured reservoir dynamics
-#   - Geomechanical modeling and data inversion
-#   - Carbon capture, utilization, and sequestration (CCUS)
-
+interests:
+  - Machine Learning
+  - Optimization
 
 education:
   courses:
-    - course: B.Sc. in Computational Engineering,
-      institution: The University of Texas at Austin
-      year: 2025
+  - course: B.S. Mathematics
+    institution: The University of Texas at Austin
+    # year: 2025
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -39,8 +38,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:hieunguyen@utexas.edu'
-
+    link: 'mailto:vc22832@utexas.edu'
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -48,15 +47,11 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'vc22832@utexas.edu'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Undergraduate Researchers
-  # - Current Graduate Students
   #- Visitors
 ---
-
-My current work focuses on the application of deep learning techniques to physics-based problems. My interests encompass deep learning, machine learning, and optimization methods, as I explore the field of artificial intelligence.
-
