@@ -15,8 +15,8 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
-      content: Take a look at what we're working on...
+    - title: 👋 Welcome to PHO-ICES
+      content: We have a lot of interesting research!
       align: center
       background:
         position: right
