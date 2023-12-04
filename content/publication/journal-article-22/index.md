@@ -21,7 +21,7 @@ publishDate: '2023-12-04'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Conferece Proceedings, 2023'
+publication: 'Conference Proceedings, 2023'
 #publication_short: ''
 
 abstract: ""
