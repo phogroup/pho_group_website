@@ -20,18 +20,18 @@ design:
 
 <br>
 
-## Our Mission
+## Our Mission -- Develop
 
 
 <font size="4">
 
 
- 1. Developing advanced  high order finite element methods for Partial Differential Equations.
+ 1. Advanced high order finite element methods for Partial Differential Equations.
 
- 2. Developing scalable solvers for future supercomputing systems to simulate complex physical problems.
+ 2. Scalable solvers for future supercomputing systems to simulate complex physical problems.
 
- 3. Developing advanced statistical and mathematical  algorithms for large-scale inverse problems and uncertainty quantification problems.
+ 3. Advanced statistical and mathematical  algorithms for large-scale inverse problems and uncertainty quantification problems.
    
- 4. Developing advanced scientific machine learning methods for real time online calibration and uncertainty quantification for digital twins.
+ 4. Advanced scientific machine learning methods for real time online calibration and uncertainty quantification for digital twins.
    
- 5. Developing advanced scientific machine learning methods for robust and reliable deployment for Digital Twins.
+ 5. Advanced scientific machine learning methods for robust and reliable deployment for Digital Twins.
