@@ -1,32 +1,34 @@
 ---
-title: 'Unified hp-HDG Frameworks for Friedrichs PDE systems'
+title: 'Use of mobile phone sensing data to estimate residence and mobility times in urban patches during the COVID-19 epidemic: The case of the 2020 outbreak in Hermosillo, Mexico'
 authors:
-  - Chen, Jau-Uei 
-  - Kang, Shinhoo
+  - L. Leticia Ramírez-Ramírez
+  - José A. Montoya
+  - Jesús F. Espinoza
+  - Chahak Mehta
+  - Albert Orwa Akuno
   - Bui-Thanh T
-  - Shadid, J. N.
   
 
 #author_notes:
  # - 'Equal contribution'
  # - 'Equal contribution'
-date: '2023-04-07'
-doi: '10.48550/arXiv.2304.03690'
+date: '2022-11-01'
+doi: '10.21203/rs.3.rs-2219155/v1'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-09-23'
+publishDate: '2023-12-04'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Under review, 2023'
+publication: 'Working paper, 2023'
 #publication_short: ''
 
-abstract: 'This work proposes a unified hp-adaptivity framework for hybridized discontinuous Galerkin (HDG) method for a large class of partial differential equations (PDEs) of Friedrichs type. In particular, we present unified hp-HDG formulations for abstract one-field and two-field structures and prove their well-posedness. In order to handle non-conforming interfaces we simply take advantage of HDG built-in mortar structures. With split-type mortars and the approximation space of trace, a numerical flux can be derived via Godunov approach and be naturally employed without any additional treatment. As a consequence, the proposed formulations are parameter-free. We perform several numerical experiments for time-independent and linear PDEs including elliptic, hyperbolic, and mixed-type to verify the proposed unified hp-formulations and demonstrate the effectiveness of hp-adaptation. Two adaptivity criteria are considered: one is based on a simple and fast error indicator, while the other is rigorous but more expensive using an adjoint-based error estimate. The numerical results show that these two approaches are comparable in terms of convergence rate even for problems with strong gradients, discontinuities, or singularities.'
+abstract: "It is often necessary to introduce the main characteristics of population mobility dynamics to model critical social phenomena such as the economy, violence, transmission of information, or infectious diseases. In this work, we focus on modeling and inferring urban population mobility using the geospatial data of its inhabitants. The objective is to estimate mobility and times inhabitants spend in the areas of interest, such as zip codes and census geographical areas. The proposed method uses the Brownian bridge model for animal movement in ecology. We illustrate its possible applications using mobile phone GPS data in 2020 from the city of Hermosillo, Sonora, in Mexico. We incorporate the estimated residence-mobility matrix into a multi-patch compartmental SEIR model to assess the effect of mobility changes due to governmental interventions."
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -38,7 +40,7 @@ abstract: 'This work proposes a unified hp-adaptivity framework for hybridized d
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/abs/2304.03690 
+url_pdf: https://doi.org/10.21203/rs.3.rs-2219155/v1
 url_code: ''
 url_dataset: ''
 url_poster: ''
