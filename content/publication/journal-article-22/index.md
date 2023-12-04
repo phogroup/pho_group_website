@@ -21,7 +21,7 @@ publishDate: '2023-12-04'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Conference Proceedings, 2023'
+publication: 'The XLIV Iberto-Latin American Congress on Computational Mechanics in Engineering, Refereeed Conference Proceedings, 2023'
 #publication_short: ''
 
 abstract: ""
