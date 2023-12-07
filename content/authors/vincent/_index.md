@@ -55,3 +55,5 @@ user_groups:
   - Undergraduate Researchers
   #- Visitors
 ---
+
+I am a third year mathematics student at the University of Texas at Austin from Florida. I have interests in deep learning, statistical inference, and optimization methods. I enjoy poker and other strategy games.
