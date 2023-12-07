@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: Undergraduate researcher
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a third year mathematics student at the University of Texas at Austin. I have interests in deep learning, statistical inference, and optimization methods. 
+bio: I am a third year mathematics student at the University of Texas at Austin from Florida. I have interests in deep learning, statistical inference, and optimization methods. I enjoy poker and other strategy games.
 
 interests:
   - Machine Learning
