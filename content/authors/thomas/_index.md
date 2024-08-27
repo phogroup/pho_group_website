@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Cole Nockolds
+title: Thomas Scott
 
 # Username (this should match the folder name)
 authors:
-  - cole
+  - thomas
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,19 +18,18 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include 
 
 interests:
-  - Deep learning
-  - Dynamical systems
-  - Clean energy
-  - Optimization
+  - Scientific Machine Learning
+  - Numerical Methods
+  - High Performance Computing
 
 education:
   courses:
-    - course: B.Sc. in Computational Engineering
-      institution: University of Texas at Austin
-      year: 2023
+    - course: BS in Mechanical Engineering
+      institution: University of Tennessee, Knoxville
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -39,10 +38,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:cole.nockolds@utexas.edu'
-  - icon: google-scholar
-    icon_pack: ai
-
+    link: 'mailto:tscott00dev@gmail.com'
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -50,7 +47,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'cole.nockolds@utexas.edu'
+email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -59,5 +56,5 @@ user_groups:
   #- Visitors
 ---
 
-I am currently working on reduced order models for dynamical systems. I am focused on methods which learn rules for evolving system dynamics in latent spaces of reduced dimensionality. It is my goal to develop novel approaches to solve challenging problems with decreased computation time. My passion is mathematics and its applications.
-
+Thomas Scott is a PhD student at the department of Aerospace Engineering and Engineering Mechanics at the Cockrell School of Engineering. 
+# Better intro! school can go in middle...
