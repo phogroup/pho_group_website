@@ -57,4 +57,3 @@ user_groups:
 ---
 
 Thomas Scott is a PhD student at the department of Aerospace Engineering and Engineering Mechanics at the Cockrell School of Engineering. 
-# Better intro! school can go in middle...
