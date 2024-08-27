@@ -45,7 +45,7 @@ social:
     link: 'mailto:krishnanunni@utexas.edu'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.in/citations?user=wYDduR4AAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=jyTynnQAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/cgkrishnanunni
