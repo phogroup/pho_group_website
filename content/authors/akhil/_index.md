@@ -29,9 +29,9 @@ interests:
 
 education:
   courses:
-    - course: B.S. Computational Engineering, 2024 (University of Texas at Austin)
-      institution: 
-      year: 
+    - course: B.S. Computational Engineering
+      institution: University of Texas at Austin
+      year: 2024
 
 
 # Social/Academic Networking
@@ -59,5 +59,5 @@ user_groups:
   #- Visitors
 ---
 
-Hi! I currently work on reduced order weather prediction (via neural operators). I'm interested in PINNs, L-Conv (Lie Groups), and other parametrized approaches that learn the smallest possible, arbitary resolution network. Usually these nets are promising surrogates or inverters for MCMC (markov-chain-monte-carlo) physics simulations. For fun, I enjoy creating procedural worlds/games, and compose music.
+Akhil worked on reduced order weather prediction (via neural operators). He is interested in PINNs, L-Conv (Lie Groups), and other parametrized approaches that learn the smallest possible, arbitary resolution network. Usually these nets are promising surrogates or inverters for MCMC (markov-chain-monte-carlo) physics simulations. For fun, he enjoys creating procedural worlds/games, and composing music.
 

@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a third year mathematics student at the University of Texas at Austin from Florida. I have interests in deep learning, statistical inference, and optimization methods. I enjoy poker and other strategy games.
+bio:
 
 interests:
   - Machine Learning
@@ -56,4 +56,4 @@ user_groups:
   #- Visitors
 ---
 
-I am a third year mathematics student at the University of Texas at Austin from Florida. I have interests in deep learning, statistical inference, and optimization methods. I enjoy poker and other strategy games.
+Vincent has interests in deep learning, statistical inference, and optimization methods. He enjoys poker and other strategy games.

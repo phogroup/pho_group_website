@@ -58,5 +58,5 @@ user_groups:
   #- Visitors
 ---
 
-My current work focuses on the application of deep learning techniques to physics-based problems. My interests encompass deep learning, machine learning, and optimization methods, as I explore the field of artificial intelligence.
+Hieu's work focused on the application of deep learning techniques to physics-based problems. His interests encompass deep learning, machine learning, and optimization methods.
 

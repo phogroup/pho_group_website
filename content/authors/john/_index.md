@@ -61,8 +61,6 @@ user_groups:
   #- Visitors
 ---
 
-John grew up in Wellesley Massachusetts, which is located west of Boston. He is
-pursuing a bachelor of science in mathematics at the University of Texas at Austin, as well as a
-certificate in Computational Science and Engineering. His areas of interest include machine
+John grew up in Wellesley Massachusetts, which is located west of Boston. His areas of interest include machine
 learning, numerical analysis, as well as partial differential equations. He enjoys playing ultimate
 frisbee, golf, skiing, as well as board games and card games in his free time.
