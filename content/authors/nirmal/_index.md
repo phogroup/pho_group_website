@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Vincent Cheng
+title: Nirmal Patel
 
 # Username (this should match the folder name)
 authors:
-  - vincent
+  - nirmal
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergraduate researcher
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,18 +18,18 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a third year mathematics student at the University of Texas at Austin from Florida. I have interests in deep learning, statistical inference, and optimization methods. I enjoy poker and other strategy games.
+# bio: My research interests include 
 
 interests:
-  - Machine Learning
+  - Deep learning
   - Optimization
+  - 3D Reconstruction
 
 education:
   courses:
-  - course: B.S. Mathematics
-    institution: The University of Texas at Austin
-    # year: 2025
-
+    - course: BS in Physics (Honors)
+      institution: UT Austin
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -38,8 +38,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:vc22832@utexas.edu'
-  
+    link: 'mailto:nirmpatel@utexas.edu'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -47,13 +47,15 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'vc22832@utexas.edu'
+email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Current Graduate Students
   #- Visitors
 ---
 
-I am a third year mathematics student at the University of Texas at Austin from Florida. I have interests in deep learning, statistical inference, and optimization methods. I enjoy poker and other strategy games.
+I graduated with my bachelors in physics from UT Austin in 2024. During my bachelor's degree, I worked on Physics Informed Neural Networks (PINNs) and its demonstration in black hole perturbation simulation. Currently, I am exploring different research topics in deep learning, optimization, and 3D reconstruction. In my free time, I lift weights and try out different board games and sports.
+
+![Personal Picture](hobbies.jpg)

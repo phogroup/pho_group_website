@@ -56,4 +56,4 @@ user_groups:
   #- Visitors
 ---
 
-My current research interests are the analysis, numerical and neural network-based approximation methods for differential equations and dynamical systems, also applications of such methods to Digital Twin.
+My current research interests are the analysis, numerical and neural network-based approximation methods for differential equations and dynamical systems, also applications of such methods to Digital Twins.

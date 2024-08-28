@@ -38,7 +38,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:tscott00dev@gmail.com'
+    link: 'mailto:thomas.scott@utexas.edu'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -56,4 +56,4 @@ user_groups:
   #- Visitors
 ---
 
-Thomas Scott is a PhD student at the department of Aerospace Engineering and Engineering Mechanics at the Cockrell School of Engineering. 
+I work on the intersection between numerical methods and machine learning. My primary interest is in reducing the computational cost of computational engineering methods on modern hardware.
