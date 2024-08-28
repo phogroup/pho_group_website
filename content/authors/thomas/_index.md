@@ -28,7 +28,7 @@ interests:
 education:
   courses:
     - course: BS in Mechanical Engineering
-      institution: University of Tennessee, Knoxville
+      institution: University of Tennessee at Knoxville
       year: 2024
 
 # Social/Academic Networking

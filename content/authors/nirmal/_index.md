@@ -28,7 +28,7 @@ interests:
 education:
   courses:
     - course: BS in Physics (Honors)
-      institution: UT Austin
+      institution: University of Texas at Austin
       year: 2024
 
 # Social/Academic Networking
