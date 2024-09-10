@@ -10,11 +10,11 @@ authors:
 #author_notes:
  # - 'Equal contribution'
  # - 'Equal contribution'
-date: '2023-04-07'
+date: '2024-01-01'
 doi: '10.48550/arXiv.2304.03690'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-09-23'
+publishDate: '2024-01-01'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,7 +23,7 @@ publishDate: '2023-09-23'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Under review, 2023'
+publication: 'Computer & Mathematics with Applications, Volume 154, Pages 236-266, 15 January 2024'
 #publication_short: ''
 
 abstract: 'This work proposes a unified hp-adaptivity framework for hybridized discontinuous Galerkin (HDG) method for a large class of partial differential equations (PDEs) of Friedrichs type. In particular, we present unified hp-HDG formulations for abstract one-field and two-field structures and prove their well-posedness. In order to handle non-conforming interfaces we simply take advantage of HDG built-in mortar structures. With split-type mortars and the approximation space of trace, a numerical flux can be derived via Godunov approach and be naturally employed without any additional treatment. As a consequence, the proposed formulations are parameter-free. We perform several numerical experiments for time-independent and linear PDEs including elliptic, hyperbolic, and mixed-type to verify the proposed unified hp-formulations and demonstrate the effectiveness of hp-adaptation. Two adaptivity criteria are considered: one is based on a simple and fast error indicator, while the other is rigorous but more expensive using an adjoint-based error estimate. The numerical results show that these two approaches are comparable in terms of convergence rate even for problems with strong gradients, discontinuities, or singularities.'
