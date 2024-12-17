@@ -1,31 +1,34 @@
 ---
 # Display name
-title: Karen Rumpf
+title: Austin Kwon
 
 # Username (this should match the folder name)
 authors:
-  - annecy
+  - austin
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Administrator
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Oden Institute
+  - name: UT Austin
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include 
 
-#interests:
+interests:
+  - Machine Learning
+  - Digital Twins
 
-
-
-#education:
-
+education:
+  courses:
+    - course: B.S. Aerospace and Mechanical Engineering
+      institution: Rensselaer Polytechnic Institute
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -34,7 +37,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:karen.rumpf@oden.uteas.edu'
+    link: 'mailto:austin.kwon@utexas.edu'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -48,9 +51,8 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Administrator
+  - Current Graduate Students
   #- Visitors
 ---
 
-Karen Rumpf graduated from the University of Texas with a degree in Anthropology. She went back to UT to receive a teaching certificate. Karen taught elementary school for 17 years in the Round Rock Independent School District (RRISD).
-
+Austin Kwon is a PhD student at the Oden Institute of Computational Engineering and Sciences.
