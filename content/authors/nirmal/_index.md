@@ -23,7 +23,7 @@ organizations:
 interests:
   - Deep learning
   - Optimization
-  - 3D Reconstruction
+  - Diffusion Model
 
 education:
   courses:
@@ -56,6 +56,6 @@ user_groups:
   #- Visitors
 ---
 
-I graduated with my bachelors in physics from UT Austin in 2024. During my bachelor's degree, I worked on Physics Informed Neural Networks (PINNs) and its demonstration in black hole perturbation simulation. Currently, I am exploring different research topics in deep learning, optimization, and 3D reconstruction. In my free time, I lift weights and try out different board games and sports.
+I graduated with my bachelors in physics from UT Austin in 2024. During my bachelor's degree, I worked on Physics Informed Neural Networks (PINNs) and its demonstration in black hole perturbation simulation. Currently, I am exploring different research topics in deep learning, optimization, and diffusion modeling. In my free time, I lift weights and try out different board games and sports.
 
 ![Personal Picture](hobbies.jpg)
