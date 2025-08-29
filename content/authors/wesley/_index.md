@@ -54,8 +54,8 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Graduate Students
+  - Alumni
   #- Visitors
 ---
 
-- My research aims to marry numerical methods with deep learning techniques in order to accelerate and augment expensive numerical solvers. By leveraging existing work in computational science, I hope to extend the capabilities of computational tools, rather than reinvent them. In particular, I am interested in using geometric deep learning (i.e., graph-based methods) to bring the advances in deep learning for computer vision and networks into the realm of physics-based problems. Our world and the phenomena that govern it are best represented with unstructured geometries capable of resolvng multiple scales effectively. I believe baking this underlying principle into the design of deep learning models, rather than forcing the physical domain to assimilate to an ill-suited format, will be instrumental in training accurate and reliable models.
+Wesley's research focused on marrying numerical methods with deep learning techniques in order to accelerate and augment expensive numerical solvers. By leveraging existing work in computational science, he hoped to extend the capabilities of computational tools, rather than reinvent them. In particular,  using geometric deep learning (i.e., graph-based methods) to bring the advances in deep learning for computer vision and networks into the realm of physics-based problems. Our world and the phenomena that govern it are best represented with unstructured geometries capable of resolvng multiple scales effectively. He believed baking this underlying principle into the design of deep learning models, rather than forcing the physical domain to assimilate to an ill-suited format, was instrumental in training accurate and reliable models.

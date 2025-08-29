@@ -52,8 +52,8 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Graduate Students
+  - Alumni
   #- Visitors
 ---
 
-My current research interests are the analysis, numerical and neural network-based approximation methods for differential equations and dynamical systems, also applications of such methods to Digital Twins.
+Son's current research interests were the analysis, numerical and neural network-based approximation methods for differential equations and dynamical systems, also applications of such methods to Digital Twins.

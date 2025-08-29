@@ -62,8 +62,8 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Graduate Students
+  - Alumni
   #- Visitors
 ---
 
-- My research focuses on developing methodologies for enabling digital twin models via scientific deep learning techniques.
+- Arjit's research focused on developing methodologies for enabling digital twin models via scientific deep learning techniques.
