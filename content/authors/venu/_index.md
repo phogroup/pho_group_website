@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Nirmal Patel
+title: Venugopal Ranganathan
 
 # Username (this should match the folder name)
 authors:
-  - nirmal
+  - venu
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,13 +21,15 @@ organizations:
 # bio: My research interests include 
 
 interests:
-  - Deep learning
-  - Optimization
-  - Diffusion Model
+  - Machine Learning
+  - Digital Twins
 
 education:
   courses:
-    - course: BS in Physics (Honors)
+    - course: B.E. Mechanical
+      institution: BITS Goa
+      year: 2021
+    - course: M.S. CSEM
       institution: University of Texas at Austin
       year: 2024
 
@@ -38,7 +40,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:nirmpatel@utexas.edu'
+    link: 'mailto:venu22@utexas.edu'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -52,10 +54,8 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Current Graduate Students
   #- Visitors
 ---
 
-I graduated with my bachelors in physics from UT Austin in 2024. During my bachelor's degree, I worked on Physics Informed Neural Networks (PINNs) and its demonstration in black hole perturbation simulation. Currently, I am exploring different research topics in deep learning, optimization, and diffusion modeling. In my free time, I lift weights and try out different board games and sports.
-
-![Personal Picture](hobbies.jpg)
+I am interested in developing novel methods for fluid and thermal engineering problems. Currently, I am working on reduced-order models for fluid flows. 
