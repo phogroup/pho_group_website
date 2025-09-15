@@ -30,8 +30,8 @@ education:
   courses:
     - course: BA, Mathematics
       institution: University of Virginia
-	- course: MS, Mathematics
-	  institution: University of Washington
+    - course: MS, Mathematics
+      institution: University of Washington
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
