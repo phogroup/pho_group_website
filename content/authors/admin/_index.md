@@ -66,10 +66,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Associate Professor
+  - Professor
 ---
 
-Tan Bui-Thanh is an associate professor, and the endowed William J Murray Jr. Fellow in Engineering No. 4,  of the Oden Institute for Computational Engineering & Sciences, and the Department of Aerospace Engineering & Engineering mechanics at the university of Texas at Austin. Bui-Thanh obtained his PhD from the Massachusetts Institute of Technology in 2007, Master of Sciences from the Singapore MIT-Alliance in 2003, and Bachelor of Engineering from the Ho Chi Minh City University of Technology (DHBK) in 2001. He has decades of experience and expertise on multidisciplinary research across the boundaries of different branches of computational science, engineering, and mathematics. Bui-Thanh is a former elected vice president of the SIAM Texas-Louisiana Section, and currently the elected secretary of the SIAM SIAG/CSE. Bui-Thanh was an NSF early CAREER recipient, the Oden Institute distinguished research award, and a two-time winner of the Moncrief Faculty Challenging award.
+Tan Bui-Thanh is an professor, and the endowed William J Murray Jr. Fellow in Engineering No. 4,  of the Oden Institute for Computational Engineering & Sciences, and the Department of Aerospace Engineering & Engineering mechanics at the university of Texas at Austin. Bui-Thanh obtained his PhD from the Massachusetts Institute of Technology in 2007, Master of Sciences from the Singapore MIT-Alliance in 2003, and Bachelor of Engineering from the Ho Chi Minh City University of Technology (DHBK) in 2001. He has decades of experience and expertise on multidisciplinary research across the boundaries of different branches of computational science, engineering, and mathematics. Bui-Thanh is a former elected vice president of the SIAM Texas-Louisiana Section, and currently the elected secretary of the SIAM SIAG/CSE. Bui-Thanh was an NSF early CAREER recipient, the Oden Institute distinguished research award, and a two-time winner of the Moncrief Faculty Challenging award.
 
 
 
