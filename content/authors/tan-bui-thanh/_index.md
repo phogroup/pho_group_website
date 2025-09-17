@@ -3,7 +3,7 @@
 title: Tan Bui-Thanh
 
 authors:
-  - admin
+  - tan-bui-thanh
 
 # Is this the primary user of the site?
 superuser: false
