@@ -1,15 +1,17 @@
 ---
-title: 'DIAS: A Data-Informed Active Subspace Regularization Framework for Inverse Problems'
+# Metadata reconciled with https://users.oden.utexas.edu/~tanbui/ on 2026-10-19.
+# For sources giving only a month/year, missing date parts use 01.
+title: "DIAS: A Data-Informed Active Subspace regularization framework for inverse problems"
 authors:
-  - Nguyen H 
-  - Wittmer J
-  - Bui-Thanh T
+  - "Hai Nguyen"
+  - "Jonathan Wittmer"
+  - "Tan Bui-Thanh"
 
 #author_notes:
  # - 'Equal contribution'
  # - 'Equal contribution'
-date: '2022-01-01'
-doi: ''
+date: "2022-01-01"
+doi: "10.3390/computation10030038"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-01-01'
@@ -18,10 +20,10 @@ publishDate: '2022-01-01'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: 'Computation, Volume 10(3),  38'
+publication: "MDPI Computation, 10 (38), https://doi.org/10.3390/computation10030038, 2022"
 #publication_short: ''
 
 abstract: This paper presents a regularization framework that aims to improve the fidelity of Tikhonov inverse solutions. At the heart of the framework is the data-informed regularization idea that only data-uninformed parameters need to be regularized, while the data-informed parameters, on which data and forward model are integrated, should remain untouched. We propose to employ the active subspace method to determine the data-informativeness of a parameter. The resulting framework is thus called a data-informed (DI) active subspace (DIAS) regularization. Four proposed DIAS variants are rigorously analyzed, shown to be robust with the regularization parameter and capable of avoiding polluting solution features informed by the data. They are thus well suited for problems with small or reasonably small noise corruptions in the data. Furthermore, the DIAS approaches can effectively reuse any Tikhonov regularization codes/libraries. Though they are readily applicable for nonlinear inverse problems, we focus on linear problems in this paper in order to gain insights into the framework. Various numerical results for linear inverse problems are presented to verify theoretical findings and to demonstrate advantages of the DIAS framework over the Tikhonov, truncated SVD, and the TSVD-based DI approaches
@@ -35,7 +37,7 @@ abstract: This paper presents a regularization framework that aims to improve th
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.mdpi.com/2079-3197/10/3/38
+url_pdf: "https://www.mdpi.com/2079-3197/10/3/38"
 url_code: ''
 url_dataset: ''
 url_poster: ''

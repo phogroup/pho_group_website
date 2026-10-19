@@ -1,16 +1,18 @@
 ---
-title: 'Microseismic events based characterization of fractal fracture network'
+# Metadata reconciled with https://users.oden.utexas.edu/~tanbui/ on 2026-10-19.
+# For sources giving only a month/year, missing date parts use 01.
+title: "Microseismic events based characterization of fractal fracture network"
 authors:
-  - Tri Pham
-  - Quoc Nguyen
-  - Tan Bui-Thanh
+  - "Tri Pham"
+  - "Quoc Nguyen"
+  - "Tan Bui-Thanh."
   
 
 #author_notes:
  # - 'Equal contribution'
  # - 'Equal contribution'
-date: '2023-01-01'
-doi: ''
+date: "2024-11-01"
+doi: "10.3390/fuels5040047"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-12-04'
@@ -19,10 +21,10 @@ publishDate: '2023-12-04'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: 'Working paper, 2023'
+publication: "Fuels, 5(4), 839–856"
 #publication_short: ''
 
 abstract: ""
@@ -37,7 +39,7 @@ abstract: ""
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: "https://www.mdpi.com/2673-3994/5/4/47"
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -66,6 +68,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides:
+aliases: ["/publication/journal-article-26/"]
 ---
 
 

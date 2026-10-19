@@ -1,18 +1,20 @@
 ---
-title: 'Multi-patch epidemic models with partial mobility, residency, and demography'
+# Metadata reconciled with https://users.oden.utexas.edu/~tanbui/ on 2026-10-19.
+# For sources giving only a month/year, missing date parts use 01.
+title: "Multi-patch epidemic models with partial mobility, residency, and demography"
 authors:
-  - Albert O Akuno
-  - L Leticia Ramirez-Ramirez
-  - Chahak Mehta
-  - CG Krishnanunni
-  - Bui-Thanh T
-  - Jose A Montoya
+  - "Albert Orwa Akuno"
+  - "L. Leticia Ramirez-Ramirez"
+  - "Chahak Mehta"
+  - "Krishnanunni C.G."
+  - "T. Bui-Thanh"
+  - "Jose Arturo Montoya"
 
 #author_notes:
  # - 'Equal contribution'
  # - 'Equal contribution'
-date: '2023-08-12'
-doi: ''
+date: "2023-08-01"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-08-12'
@@ -21,10 +23,10 @@ publishDate: '2023-08-12'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ' Chaos, Solitons & Fractals Volume 173, August 113690, 2023'
+publication: "Chaos, Solitons & Fractals, Volume 173, August, 113690, 2023"
 #publication_short: ''
 
 abstract: 	The emergence and re-emergence of infectious diseases has been a global cause of concern in the past few decades. Previous research in the field has revealed that human connectivity and mobility behaviour play a major role in the spreading of an infectious disease. In this work, we propose multi-patch  models that take into account the effects of human mobility on the evolution of disease dynamics in a multi-population environment. In particular, we develop SEIRS multi-patch and multi-group epidemic models to practically account for distinct epidemiological-status-dependent mobilities in each patch.
@@ -39,7 +41,7 @@ abstract: 	The emergence and re-emergence of infectious diseases has been a glob
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S096007792300591X?dgcid=coauthor
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S096007792300591X?dgcid=coauthor"
 url_code: ''
 url_dataset: ''
 url_poster: ''

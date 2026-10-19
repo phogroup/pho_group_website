@@ -1,15 +1,17 @@
 ---
-title: 'A Divergence-Free and H(div)-Conforming Embedded-Hybridized DG Method for the Incompressible Resistive MHD equations'
+# Metadata reconciled with https://users.oden.utexas.edu/~tanbui/ on 2026-10-19.
+# For sources giving only a month/year, missing date parts use 01.
+title: "A Divergence-Free and H(div)-Conforming Embedded-Hybridized DG Method for the Incompressible Resistive MHD equations"
 authors:
-  - Jau-Uei Chen
-  - Tamas Horvath
-  - Tan Bui-Thanh
+  - "Jau-Uei Chen"
+  - "Tamás L. Horváth"
+  - "Tan Bui-Thanh"
 
 #author_notes:
  # - 'Equal contribution'
  # - 'Equal contribution'
-date: '2024-09-23'
-doi: ''
+date: "2024-12-01"
+doi: "10.1016/j.cma.2024.117415"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-09-23'
@@ -18,10 +20,10 @@ publishDate: '2024-09-23'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: 'Computer Methods in Applied Mechanics and Engineering, Under Review, 2024'
+publication: "Computer Methods in Applied Mechanics and Engineering, 432, Part A, 117415"
 #publication_short: ''
 
 abstract: ""
@@ -36,7 +38,7 @@ abstract: ""
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/abs/2310.06687
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S0045782524006704"
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -1,3 +1,47 @@
+# PHO-ICES Group Website
+
+This is a Hugo/Wowchemy site deployed by Netlify. News entries live in
+`content/post/`; the homepage automatically displays the five newest entries.
+
+## Preview locally
+
+On Linux x86_64, you need Bash, Make, curl, tar, and sha256sum. The preview
+command automatically downloads **Hugo Extended 0.97.3** and Go when needed,
+verifies their release checksums, and stores them in the ignored `.tools/`
+directory. No sudo or system-wide installation is needed. Hugo's version matches
+`netlify.toml` because newer versions may be incompatible with this older theme.
+
+On other platforms, install [Go](https://go.dev/doc/install) and
+[Hugo Extended 0.97.3](https://github.com/gohugoio/hugo/releases/tag/v0.97.3)
+on your `PATH` first.
+
+From this folder, run:
+
+```sh
+make serve
+```
+
+Open <http://localhost:1313/> and check **Latest News**, or visit
+<http://localhost:1313/post/> for all news. Hugo rebuilds and reloads the page
+when you save changes. Press Ctrl+C to stop. The first run needs internet access
+to download the tools and theme's Go modules. Later runs reuse these downloads.
+
+To use another port, run `make serve PORT=1314`. Without Make, run
+`bash scripts/hugo.sh server --baseURL http://localhost:1313/ --port 1313 --disableFastRender`.
+
+## Check the production build
+
+```sh
+make build
+```
+
+This uses Netlify's build flags and writes the generated site to `public/`.
+To build with the deployed site's URL, run `make build BASE_URL=https://your-site.netlify.app/`.
+Without Make, run `HUGO_ENV=production bash scripts/hugo.sh --gc --minify --baseURL http://localhost:1313/`.
+These commands build locally and do not deploy the site.
+
+## Original theme documentation
+
 # [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)

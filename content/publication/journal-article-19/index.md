@@ -1,14 +1,16 @@
 ---
-title: 'Adjoint and Its roles in Sciences, Engineering, and Mathematics: A Tutorial'
+# Metadata reconciled with https://users.oden.utexas.edu/~tanbui/ on 2026-10-19.
+# For sources giving only a month/year, missing date parts use 01.
+title: "Adjoint and Its roles in Sciences, Engineering, and Mathematics: A Tutorial"
 authors:
-  - Bui-Thanh T
+  - "Tan Bui-Thanh"
   
 
 #author_notes:
  # - 'Equal contribution'
  # - 'Equal contribution'
-date: '2023-04-07'
-doi: ''
+date: "2024-01-01"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-09-23'
@@ -17,10 +19,10 @@ publishDate: '2023-09-23'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: 'Working paper, 2023'
+publication: "SIAM book in progress, 2024"
 #publication_short: ''
 
 abstract: "This paper synergizes the roles of adjoint in various disciplines of mathematics, sciences, and engineering. Though the materials developed and presented are not new -- as each or some could be found in (or inferred from) publications in different fields -- we believe this is the first effort to systematically unify these materials on the same mathematical footing starting from the basic definitions. We aim to provide a unified perspective and understanding of adjoint applications.
@@ -36,7 +38,7 @@ As a result, this work could give broader views and better insights into the app
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/abs/2306.09917
+url_pdf: "https://arxiv.org/abs/2306.09917"
 url_code: ''
 url_dataset: ''
 url_poster: ''

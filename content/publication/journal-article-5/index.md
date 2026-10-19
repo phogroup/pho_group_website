@@ -1,16 +1,18 @@
 ---
-title: 'Probabilistic Constrained Bayesion Inversion for Transpiration Cooling'
+# Metadata reconciled with https://users.oden.utexas.edu/~tanbui/ on 2026-10-19.
+# For sources giving only a month/year, missing date parts use 01.
+title: "Probabilistic Constrained Bayesian Inversion for Transpiration Cooling"
 authors:
-  - Steins E
-  - Bui-Thanh T
-  - Herty M
-  - Müller S
+  - "Ella Steins"
+  - "Tan Bui-Thanh"
+  - "Michael Herty"
+  - "Siegfried Muller"
 
 #author_notes:
  # - 'Equal contribution'
  # - 'Equal contribution'
-date: '2022-01-01'
-doi: ''
+date: "2022-12-01"
+doi: "10.1002/fld.5135"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-01-01'
@@ -19,10 +21,10 @@ publishDate: '2022-01-01'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: 'arXiv preprint'
+publication: "International Journal for Numerical Methods in Fluids, 94(12), 2020–2039"
 #publication_short: ''
 
 abstract: To enable safe operations in applications such as rocket combustion chambers, the materials require cooling to avoid material damage. Here, transpiration cooling is a promising cooling technique. Numerous studies investigate possibilities to simulate and evaluate the complex cooling mechanism. One naturally arising question is the amount of coolant required to ensure a safe operation. To study this, we introduce an approach that determines the posterior probability distribution of the Reynolds number using an inverse problem and constraining the maximum temperature of the system under parameter uncertainties. Mathematically, this chance inequality constraint is dealt with by a generalized Polynomial Chaos expansion of the system. The posterior distribution will be evaluated by different Markov Chain Monte Carlo based methods. A novel method for the constrained case is proposed and tested among others on two-dimensional transpiration cooling models.
@@ -36,7 +38,7 @@ abstract: To enable safe operations in applications such as rocket combustion ch
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/abs/2203.07122
+url_pdf: "https://onlinelibrary.wiley.com/doi/full/10.1002/fld.5135"
 url_code: ''
 url_dataset: ''
 url_poster: ''

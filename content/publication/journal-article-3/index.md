@@ -1,15 +1,17 @@
 ---
-title: 'Model-constrained deep learning approaches for inverse problems'
+# Metadata reconciled with https://users.oden.utexas.edu/~tanbui/ on 2026-10-19.
+# For sources giving only a month/year, missing date parts use 01.
+title: "TNet: A Model-Constrained Tikhonov Network Approach for Inverse Problems"
 authors:
-  - Nguyen HV
-  - Bui-Thanh T
+  - "Hai V. Nguyen"
+  - "Tan Bui-Thanh"
 
 
 #author_notes:
  # - 'Equal contribution'
  # - 'Equal contribution'
-date: '2024-01-01'
-doi: ''
+date: "2024-01-30"
+doi: "10.1137/22M1526708"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-01-01'
@@ -18,10 +20,10 @@ publishDate: '2024-01-01'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: 'SIAM Journal of Scientific Computing, 41(1), C77-C100, January 2024'
+publication: "SIAM Journal on Scientific Computing, 46(1), C77–C100"
 #publication_short: ''
 
 abstract: Deep Learning (DL), in particular deep neural networks (DNN), by design is purely data-driven and in general does not require physics. This is the strength of DL but also one of its key limitations when applied to science and engineering problems in which underlying physical properties (such as stability, conservation, and positivity) and desired accuracy need to be achieved. DL methods in their original forms are not capable of respecting the underlying mathematical models or achieving desired accuracy even in big-data regimes. On the other hand, many data-driven science and engineering problems, such as inverse problems, typically have limited experimental or observational data, and DL would overfit the data in this case. Leveraging information encoded in the underlying mathematical models, we argue, not only compensates missing information in low data regimes but also provides opportunities to equip DL methods with the underlying physics and hence obtaining higher accuracy. This short communication introduces several model-constrained DL approaches (including both feed-forward DNN and autoencoders) that are capable of learning not only information hidden in the training data but also in the underlying mathematical models to solve inverse problems. We present and provide intuitions for our formulations for general nonlinear problems. For linear inverse problems and linear networks, the first order optimality conditions show that our model-constrained DL approaches can learn information encoded in the underlying mathematical models, and thus can produce consistent or equivalent inverse solutions, while naive purely data-based counterparts cannot.
@@ -35,7 +37,7 @@ abstract: Deep Learning (DL), in particular deep neural networks (DNN), by desig
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/abs/2105.12033
+url_pdf: "https://arxiv.org/abs/2105.12033"
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -64,6 +66,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides:
+aliases: ["/publication/journal-article-10/"]
 ---
 
 

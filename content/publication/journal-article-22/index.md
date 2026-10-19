@@ -1,15 +1,17 @@
 ---
-title: 'Model-constrained uncertainty quantification for scientific deep learning of inverse solutions'
+# Metadata reconciled with https://users.oden.utexas.edu/~tanbui/ on 2026-10-19.
+# For sources giving only a month/year, missing date parts use 01.
+title: "Model-constrained uncertainty quantification for scientific deep learning of inverse solutions"
 authors:
-  - Russell Philley
-  - Hai V. Nguyen
-  - Tan Bui-Thanh
+  - "Russell Philley"
+  - "Hai V. Nguyen"
+  - "Tan Bui-Thanh"
 
 #author_notes:
  # - 'Equal contribution'
  # - 'Equal contribution'
-date: '2023-11-01'
-doi: ''
+date: "2023-11-01"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-12-04'
@@ -18,10 +20,10 @@ publishDate: '2023-12-04'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: 'The XLIV Iberto-Latin American Congress on Computational Mechanics in Engineering, Refereeed Conference Proceedings, 2023'
+publication: "the XLIV Iberto-Latin American Congress on Computational Mechanics in Engineering, Refereed proceeding, November, 2023"
 #publication_short: ''
 
 abstract: ""
@@ -36,7 +38,7 @@ abstract: ""
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: ""
 url_code: ''
 url_dataset: ''
 url_poster: ''
